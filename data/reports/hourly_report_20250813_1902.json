@@ -1,0 +1,109 @@
+{
+  "timestamp": "2025-08-13T19:02:05.715654",
+  "period": "18:02 - 19:02",
+  "total_signals": 9,
+  "signals_by_type": {
+    "pattern": 4,
+    "price_change": 3,
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 8,
+    "important": 1
+  },
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.0% до -0.1%)",
+      "price": 200.74,
+      "change_percent": -0.10766233624723472,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T18:55:59.343739"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.0% до -0.2%)",
+      "price": 199.98,
+      "change_percent": -0.2322484153921852,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T18:54:34.653104"
+    },
+    {
+      "ticker": "AAPL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.54%",
+      "price": 232.09,
+      "change_percent": -0.5356989800291421,
+      "confidence": 0.6176891302502209,
+      "timestamp": "2025-08-13T18:54:26.131001"
+    },
+    {
+      "ticker": "K",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.1%)",
+      "price": 80.205,
+      "change_percent": 0.05617485043727388,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T18:53:12.986817"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.0% до -0.3%)",
+      "price": 199.495,
+      "change_percent": -0.31175400537284037,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T18:53:10.029463"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.25%",
+      "price": 199.495,
+      "change_percent": -1.2498762498762526,
+      "confidence": 0.8079154106245627,
+      "timestamp": "2025-08-13T18:53:10.027734"
+    },
+    {
+      "ticker": "AAPL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.69%",
+      "price": 234.425,
+      "change_percent": 0.6936987242816068,
+      "confidence": 0.6819266021644329,
+      "timestamp": "2025-08-13T18:30:14.000642"
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 270.185,
+      "change_percent": -0.9645019742203409,
+      "confidence": 0.4126098729758314,
+      "timestamp": "2025-08-13T18:19:17.447486",
+      "period_hours": 12
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 655.81,
+      "change_percent": 0.9780468183211869,
+      "confidence": 0.3755023701805913,
+      "timestamp": "2025-08-13T18:09:11.736529",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

@@ -1,0 +1,129 @@
+{
+  "symbols": [
+    "UNIUSDT",
+    "SUSHIUSDT",
+    "COMPUSDT",
+    "SEIUSDT",
+    "ADAUSDT",
+    "LINKUSDT",
+    "WLFIUSDT",
+    "HYPEUSDT",
+    "PUMPUSDT",
+    "BASUSDT",
+    "XPLUSDT",
+    "RAYSOLUSDT",
+    "MITOUSDT",
+    "HEMIUSDT",
+    "TAUSDT",
+    "1000BONKUSDT",
+    "MUSDT",
+    "SAPIENUSDT",
+    "IPUSDT",
+    "KASUSDT",
+    "SPXUSDT",
+    "AEROUSDT",
+    "FARTCOINUSDT",
+    "BUSDT"
+  ],
+  "last_updated": "2025-08-30T22:58:10.333244",
+  "auto_added": [
+    {
+      "symbol": "WLFIUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-27T16:29:30.067386"
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-27T16:31:20.596205"
+    },
+    {
+      "symbol": "PUMPUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-27T16:50:03.067041"
+    },
+    {
+      "symbol": "BASUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-27T20:18:50.606746"
+    },
+    {
+      "symbol": "XPLUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-28T11:32:15.564097"
+    },
+    {
+      "symbol": "RAYSOLUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-28T14:12:16.615219"
+    },
+    {
+      "symbol": "MITOUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-28T18:59:47.241741"
+    },
+    {
+      "symbol": "HEMIUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-29T09:42:10.962793"
+    },
+    {
+      "symbol": "TAUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-29T15:53:11.394850"
+    },
+    {
+      "symbol": "1000BONKUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T04:10:13.652447"
+    },
+    {
+      "symbol": "MUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T06:36:02.630376"
+    },
+    {
+      "symbol": "SAPIENUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T07:43:57.465365"
+    },
+    {
+      "symbol": "IPUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T15:53:55.989340"
+    },
+    {
+      "symbol": "KASUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T20:12:06.426661"
+    },
+    {
+      "symbol": "SPXUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T20:14:29.926047"
+    },
+    {
+      "symbol": "AEROUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T20:14:32.184258"
+    },
+    {
+      "symbol": "FARTCOINUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T20:15:50.855008"
+    },
+    {
+      "symbol": "BUSDT",
+      "reason": "binance_invalid_symbol",
+      "date": "2025-08-30T22:58:10.333232"
+    }
+  ],
+  "manually_added": [
+    "UNIUSDT",
+    "SUSHIUSDT",
+    "COMPUSDT",
+    "SEIUSDT",
+    "ADAUSDT",
+    "LINKUSDT"
+  ]
+}

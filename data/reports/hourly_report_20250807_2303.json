@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-07T23:03:48.548724",
+  "period": "22:03 - 23:03",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 120.96,
+      "change_percent": 0.831103521903861,
+      "confidence": 0.6992518985600118,
+      "timestamp": "2025-08-07T22:43:18.080251",
+      "period_hours": 12
+    },
+    {
+      "ticker": "ORCL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 249.39,
+      "change_percent": 1.626607868264669,
+      "confidence": 0.34858541622145456,
+      "timestamp": "2025-08-07T22:27:46.976847",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

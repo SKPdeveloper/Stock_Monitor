@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-08-15T21:01:39.460753",
+  "period": "20:01 - 21:01",
+  "total_signals": 5,
+  "signals_by_type": {
+    "prediction": 5
+  },
+  "signals_by_priority": {
+    "info": 5
+  },
+  "signals": [
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.1%",
+      "price": 330.56,
+      "change_percent": -1.135905729918686,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-15T20:16:39.374853",
+      "period_hours": 12
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 90.6,
+      "change_percent": 1.0376368175166137,
+      "confidence": 0.7044345320697281,
+      "timestamp": "2025-08-15T20:16:38.295105",
+      "period_hours": 12
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 90.63,
+      "change_percent": 0.47410836101370657,
+      "confidence": 0.8389031620641522,
+      "timestamp": "2025-08-15T20:13:35.462149",
+      "period_hours": 6
+    },
+    {
+      "ticker": "C",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 93.685,
+      "change_percent": 1.5823292649063831,
+      "confidence": 0.3,
+      "timestamp": "2025-08-15T20:12:41.209549",
+      "period_hours": 24
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 330.3662,
+      "change_percent": -1.4489869381070648,
+      "confidence": 0.3,
+      "timestamp": "2025-08-15T20:12:18.249907",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

@@ -1,0 +1,124 @@
+СПИСОК ТИКЕРОВ ДЛЯ ДОБАВЛЕНИЯ
+==============================
+
+Технологии:
+  ORCL
+  CRM
+  ADBE
+  INTC
+  CSCO
+  IBM
+  QCOM
+  PYPL
+  SHOP
+  SQ
+  UBER
+  LYFT
+  SNAP
+  PINS
+  SPOT
+  ROKU
+  ZM
+  DOCU
+  OKTA
+
+Финансы:
+  JPM
+  BAC
+  WFC
+  GS
+  MS
+  C
+  AXP
+  V
+  MA
+  BRK.B
+  SCHW
+  BLK
+  SPGI
+  MCO
+  ICE
+  CME
+  COIN
+  SOFI
+
+Здравоохранение:
+  JNJ
+  UNH
+  PFE
+  CVS
+  ABBV
+  TMO
+  ABT
+  MRK
+  LLY
+  GILD
+  AMGN
+  BIIB
+  REGN
+  VRTX
+  MRNA
+  ZTS
+  ISRG
+  DHR
+  BMY
+
+Энергетика:
+  XOM
+  CVX
+  COP
+  SLB
+  EOG
+  PSX
+  MPC
+  VLO
+  KMI
+  OKE
+  LNG
+
+Потребительские товары:
+  WMT
+  HD
+  MCD
+  SBUX
+  NKE
+  LOW
+  TGT
+  COST
+  PG
+  KO
+  PEP
+  MDLZ
+  MO
+  PM
+  UL
+  CL
+  GIS
+  K
+  CPB
+  HSY
+
+Другие:
+  DIS
+  CMCSA
+  T
+  VZ
+  TMUS
+  CHTR
+  NXST
+  FOXA
+  DISCA
+  VIAC
+  BA
+  LMT
+  GD
+  NOC
+  RTX
+  CAT
+  DE
+  MMM
+  HON
+  GE
+
+
+Всего: 107 тикеров

@@ -1,0 +1,79 @@
+{
+  "timestamp": "2025-08-06T20:03:57.690650",
+  "period": "19:03 - 20:03",
+  "total_signals": 6,
+  "signals_by_type": {
+    "prediction": 4,
+    "pattern": 2
+  },
+  "signals_by_priority": {
+    "info": 6
+  },
+  "signals": [
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.1%",
+      "price": 745.0644,
+      "change_percent": 1.0506697704144148,
+      "confidence": 0.6219571904933905,
+      "timestamp": "2025-08-06T19:42:11.473804",
+      "period_hours": 12
+    },
+    {
+      "ticker": "META",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 771.7898,
+      "change_percent": -1.367423077134535,
+      "confidence": 0.3,
+      "timestamp": "2025-08-06T19:33:42.490017",
+      "period_hours": 24
+    },
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 120.655,
+      "change_percent": -1.519965339969699,
+      "confidence": 0.3450840649914413,
+      "timestamp": "2025-08-06T19:32:07.095497",
+      "period_hours": 24
+    },
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.7% до 1.4%)",
+      "price": 255.0,
+      "change_percent": 1.4331397150405767,
+      "confidence": 0.6,
+      "timestamp": "2025-08-06T19:23:51.190076"
+    },
+    {
+      "ticker": "DHR",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 194.65,
+      "change_percent": 1.4456085172085744,
+      "confidence": 0.3,
+      "timestamp": "2025-08-06T19:13:47.536816",
+      "period_hours": 24
+    },
+    {
+      "ticker": "BAC",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.1% до -0.1%)",
+      "price": 45.455,
+      "change_percent": -0.14894781756489284,
+      "confidence": 0.6,
+      "timestamp": "2025-08-06T19:04:54.935118"
+    }
+  ],
+  "predictions_verification": []
+}

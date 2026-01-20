@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-08-15T19:01:37.995380",
+  "period": "18:01 - 19:01",
+  "total_signals": 4,
+  "signals_by_type": {
+    "price_change": 2,
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.94%",
+      "price": 205.32,
+      "change_percent": 0.9389902168034987,
+      "confidence": 0.7817826802855514,
+      "timestamp": "2025-08-15T18:20:55.737486"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.93%",
+      "price": 203.41,
+      "change_percent": -0.925429837806247,
+      "confidence": 0.7763033499672357,
+      "timestamp": "2025-08-15T18:19:29.593505"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 90.835,
+      "change_percent": 0.7742000955735424,
+      "confidence": 0.74,
+      "timestamp": "2025-08-15T18:15:23.161804",
+      "period_hours": 12
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 90.78,
+      "change_percent": 1.5249533969365736,
+      "confidence": 0.5,
+      "timestamp": "2025-08-15T18:12:30.512219",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

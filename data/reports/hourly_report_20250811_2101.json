@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-08-11T21:01:03.839264",
+  "period": "20:01 - 21:01",
+  "total_signals": 10,
+  "signals_by_type": {
+    "prediction": 9,
+    "model_consensus": 1
+  },
+  "signals_by_priority": {
+    "info": 9,
+    "important": 1
+  },
+  "signals": [
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.9%",
+      "price": 20.65,
+      "change_percent": 1.9274172172168313,
+      "confidence": 0.3612187933781703,
+      "timestamp": "2025-08-11T20:57:56.385014",
+      "period_hours": 24
+    },
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.1%",
+      "price": 20.68,
+      "change_percent": 1.1110850894440636,
+      "confidence": 0.5461478726093842,
+      "timestamp": "2025-08-11T20:16:09.405884",
+      "period_hours": 12
+    },
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 20.68,
+      "change_percent": 0.5555425447220318,
+      "confidence": 0.6661478726093842,
+      "timestamp": "2025-08-11T20:16:09.405772",
+      "period_hours": 6
+    },
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.1%",
+      "price": 183.68,
+      "change_percent": 1.0913497438582547,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-11T20:14:55.622358",
+      "period_hours": 12
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 3.3%",
+      "price": 91.735,
+      "change_percent": 3.332055925717411,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T20:12:02.061604",
+      "period_hours": 24
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 91.735,
+      "change_percent": 0.8330139814293528,
+      "confidence": 0.4800000000000001,
+      "timestamp": "2025-08-11T20:12:02.061234",
+      "period_hours": 6
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.4%",
+      "price": 91.735,
+      "change_percent": 0.4165069907146764,
+      "confidence": 0.54,
+      "timestamp": "2025-08-11T20:12:02.061031",
+      "period_hours": 3
+    },
+    {
+      "ticker": "SBUX",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 91.735,
+      "change_percent": 2.0977619234769973,
+      "confidence": 0.44900000000000007,
+      "timestamp": "2025-08-11T20:12:02.060702"
+    },
+    {
+      "ticker": "TMO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 462.27,
+      "change_percent": -1.5201207663031728,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T20:09:09.481550",
+      "period_hours": 24
+    },
+    {
+      "ticker": "QCOM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 147.98,
+      "change_percent": 0.8774712207546194,
+      "confidence": 0.5652146200932293,
+      "timestamp": "2025-08-11T20:09:08.438584",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

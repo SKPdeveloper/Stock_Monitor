@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-08T23:02:24.477607",
+  "period": "22:02 - 23:02",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.9%",
+      "price": 74.19,
+      "change_percent": 1.9282545377814244,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T22:52:19.705456",
+      "period_hours": 24
+    },
+    {
+      "ticker": "ACN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 239.2,
+      "change_percent": -1.4391385973881163,
+      "confidence": 0.4919596340164001,
+      "timestamp": "2025-08-08T22:22:17.890153",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

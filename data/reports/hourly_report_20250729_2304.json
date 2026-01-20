@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-07-29T23:04:26.658832",
+  "period": "22:04 - 23:04",
+  "total_signals": 1,
+  "signals_by_type": {
+    "prediction": 1
+  },
+  "signals_by_priority": {
+    "info": 1
+  },
+  "signals": [
+    {
+      "ticker": "PFE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 24.3,
+      "change_percent": 1.3601808326872866,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T22:23:36.804087",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

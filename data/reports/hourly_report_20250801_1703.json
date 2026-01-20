@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-08-01T17:03:52.383983",
+  "period": "16:03 - 17:03",
+  "total_signals": 9,
+  "signals_by_type": {
+    "prediction": 9
+  },
+  "signals_by_priority": {
+    "info": 9
+  },
+  "signals": [
+    {
+      "ticker": "HON",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 218.71,
+      "change_percent": 1.4288893105352676,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T17:02:02.166036",
+      "period_hours": 24
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 15.81,
+      "change_percent": -1.4910611302926717,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T16:59:18.467095",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 32.765,
+      "change_percent": 0.7793832416566459,
+      "confidence": 0.7095717553787326,
+      "timestamp": "2025-08-01T16:54:38.354788",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.0%",
+      "price": 291.32,
+      "change_percent": 1.9781938674640938,
+      "confidence": 0.3936923163331927,
+      "timestamp": "2025-08-01T16:48:49.998685",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.1%",
+      "price": 176.015,
+      "change_percent": 1.0886691696720863,
+      "confidence": 0.5511813329468136,
+      "timestamp": "2025-08-01T16:40:24.609971",
+      "period_hours": 12
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 176.2582,
+      "change_percent": 0.562291113845979,
+      "confidence": 0.6741024092950251,
+      "timestamp": "2025-08-01T16:24:23.135205",
+      "period_hours": 6
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 292.25,
+      "change_percent": 0.5045021735412766,
+      "confidence": 0.7657208383773827,
+      "timestamp": "2025-08-01T16:18:05.068197",
+      "period_hours": 6
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.0%",
+      "price": 86.1,
+      "change_percent": 2.0487242375895525,
+      "confidence": 0.31311433910463937,
+      "timestamp": "2025-08-01T16:04:03.454441",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.2%",
+      "price": 175.6,
+      "change_percent": 2.162392960300596,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T16:03:57.631042",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

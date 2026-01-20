@@ -1,0 +1,101 @@
+{
+  "timestamp": "2025-08-11T18:02:52.078173",
+  "period": "17:02 - 18:02",
+  "total_signals": 8,
+  "signals_by_type": {
+    "prediction": 4,
+    "pattern": 1,
+    "model_consensus": 3
+  },
+  "signals_by_priority": {
+    "info": 5,
+    "important": 3
+  },
+  "signals": [
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 20.765,
+      "change_percent": 1.4047540471847089,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T17:56:43.025442",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.6% до -1.2%)",
+      "price": 31.055,
+      "change_percent": -1.1551775644459492,
+      "confidence": 0.6,
+      "timestamp": "2025-08-11T17:50:39.078985"
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.4%",
+      "price": 15.825,
+      "change_percent": 0.35842199039745043,
+      "confidence": 0.7333815704942528,
+      "timestamp": "2025-08-11T17:42:18.706124",
+      "period_hours": 3
+    },
+    {
+      "ticker": "MARA",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 15.825,
+      "change_percent": 3.526114716031562,
+      "confidence": 0.5026967980204986,
+      "timestamp": "2025-08-11T17:42:18.705930"
+    },
+    {
+      "ticker": "MARA",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 15.85,
+      "change_percent": 3.3783095502014824,
+      "confidence": 0.45620735539554985,
+      "timestamp": "2025-08-11T17:40:22.237505"
+    },
+    {
+      "ticker": "MARA",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 15.8507,
+      "change_percent": 3.3436977666399033,
+      "confidence": 0.4576519653040221,
+      "timestamp": "2025-08-11T17:39:38.962967"
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.1%",
+      "price": 15.96,
+      "change_percent": 1.1023846569064593,
+      "confidence": 0.6031623821736556,
+      "timestamp": "2025-08-11T17:06:27.667306",
+      "period_hours": 12
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 15.96,
+      "change_percent": 0.5511923284532296,
+      "confidence": 0.7231623821736556,
+      "timestamp": "2025-08-11T17:06:27.667151",
+      "period_hours": 6
+    }
+  ],
+  "predictions_verification": []
+}

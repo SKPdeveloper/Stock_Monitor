@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-08-06T19:00:38.098754",
+  "period": "18:00 - 19:00",
+  "total_signals": 4,
+  "signals_by_type": {
+    "pattern": 2,
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.7% до 1.4%)",
+      "price": 255.05,
+      "change_percent": 1.4396585348734372,
+      "confidence": 0.6,
+      "timestamp": "2025-08-06T18:53:24.000875"
+    },
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.7% до 1.5%)",
+      "price": 255.25,
+      "change_percent": 1.465733814204865,
+      "confidence": 0.6,
+      "timestamp": "2025-08-06T18:51:59.120732"
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 743.57,
+      "change_percent": 0.5558964777912263,
+      "confidence": 0.6802639196723498,
+      "timestamp": "2025-08-06T18:50:30.654663",
+      "period_hours": 6
+    },
+    {
+      "ticker": "AXP",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.9%",
+      "price": 295.355,
+      "change_percent": -0.8602428083392978,
+      "confidence": 0.5678173541070248,
+      "timestamp": "2025-08-06T18:16:21.289845",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

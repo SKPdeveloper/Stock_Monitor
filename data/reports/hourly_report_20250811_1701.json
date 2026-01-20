@@ -1,0 +1,157 @@
+{
+  "timestamp": "2025-08-11T17:01:36.472575",
+  "period": "16:01 - 17:01",
+  "total_signals": 13,
+  "signals_by_type": {
+    "prediction": 10,
+    "pattern": 1,
+    "model_consensus": 2
+  },
+  "signals_by_priority": {
+    "info": 11,
+    "important": 2
+  },
+  "signals": [
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.9%",
+      "price": 15.945,
+      "change_percent": 1.8706633451635797,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T17:01:26.378248",
+      "period_hours": 24
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.3%",
+      "price": 255.44,
+      "change_percent": -1.2976323356354387,
+      "confidence": 0.5,
+      "timestamp": "2025-08-11T16:51:17.433022",
+      "period_hours": 24
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 346.3775,
+      "change_percent": 1.5269969443987974,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T16:49:50.042463",
+      "period_hours": 24
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 16.195,
+      "change_percent": -0.9892207606719187,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-11T16:29:23.236882",
+      "period_hours": 12
+    },
+    {
+      "ticker": "NVDA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.4% до 0.8%)",
+      "price": 183.6957,
+      "change_percent": 0.7883570999836461,
+      "confidence": 0.6,
+      "timestamp": "2025-08-11T16:28:00.073895"
+    },
+    {
+      "ticker": "NKE",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 73.935,
+      "change_percent": 1.6520972973847903,
+      "confidence": 0.5204841567145151,
+      "timestamp": "2025-08-11T16:18:54.496330"
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 16.095,
+      "change_percent": -1.4209214088774549,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T16:17:49.701065",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 73.9,
+      "change_percent": 1.6493210058037375,
+      "confidence": 0.517281452650707,
+      "timestamp": "2025-08-11T16:13:32.374530"
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.3%",
+      "price": 73.87,
+      "change_percent": 0.32053571539644393,
+      "confidence": 0.7232269142521859,
+      "timestamp": "2025-08-11T16:12:05.761011",
+      "period_hours": 3
+    },
+    {
+      "ticker": "ORCL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 251.91,
+      "change_percent": -1.438215276626387,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T16:09:12.920553",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 73.72,
+      "change_percent": 0.6056721791205479,
+      "confidence": 0.6441313999953476,
+      "timestamp": "2025-08-11T16:06:17.240928",
+      "period_hours": 6
+    },
+    {
+      "ticker": "QCOM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 149.15,
+      "change_percent": 1.5327261243155577,
+      "confidence": 0.3537938271871923,
+      "timestamp": "2025-08-11T16:03:09.525591",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.5%",
+      "price": 73.63,
+      "change_percent": 2.4897718586196675,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T16:03:04.085104",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

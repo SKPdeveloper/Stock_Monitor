@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-05T21:03:47.643099",
+  "period": "20:03 - 21:03",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "BMY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 45.85,
+      "change_percent": 1.472079053811963,
+      "confidence": 0.3,
+      "timestamp": "2025-08-05T20:16:21.008421",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AMZN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.8%",
+      "price": 214.05,
+      "change_percent": -0.7908572239681784,
+      "confidence": 0.6943696535876274,
+      "timestamp": "2025-08-05T20:05:59.691058",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

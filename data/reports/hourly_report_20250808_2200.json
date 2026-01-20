@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-08T22:00:47.082693",
+  "period": "21:00 - 22:00",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.5%",
+      "price": 250.89,
+      "change_percent": -0.537785525937768,
+      "confidence": 0.6630819685356139,
+      "timestamp": "2025-08-08T21:46:31.018686",
+      "period_hours": 6
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.1%",
+      "price": 250.89,
+      "change_percent": -1.0612955479733293,
+      "confidence": 0.5359750214375782,
+      "timestamp": "2025-08-08T21:27:36.652174",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

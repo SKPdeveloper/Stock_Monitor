@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-08-07T16:04:05.682643",
+  "period": "15:04 - 16:04",
+  "total_signals": 12,
+  "signals_by_type": {
+    "pattern": 1,
+    "price_change": 10,
+    "prediction": 1
+  },
+  "signals_by_priority": {
+    "info": 12
+  },
+  "signals": [
+    {
+      "ticker": "ACN",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -1.1% до -2.2%)",
+      "price": 242.24,
+      "change_percent": -2.158639279484842,
+      "confidence": 0.6,
+      "timestamp": "2025-08-07T15:57:26.897717"
+    },
+    {
+      "ticker": "INTC",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.25%",
+      "price": 19.795,
+      "change_percent": -0.25195263290499953,
+      "confidence": 0.507293364598067,
+      "timestamp": "2025-08-07T15:56:10.980795"
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.1%",
+      "price": 241.7,
+      "change_percent": -1.0885916337730082,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-07T15:53:29.754888",
+      "period_hours": 12
+    },
+    {
+      "ticker": "V",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.26%",
+      "price": 334.285,
+      "change_percent": -0.2595813877161158,
+      "confidence": 0.6146891162354617,
+      "timestamp": "2025-08-07T15:47:45.168471"
+    },
+    {
+      "ticker": "MA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.31%",
+      "price": 564.595,
+      "change_percent": -0.30635848356965256,
+      "confidence": 0.5499623195561004,
+      "timestamp": "2025-08-07T15:47:29.557756"
+    },
+    {
+      "ticker": "MARA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.32%",
+      "price": 15.915,
+      "change_percent": 0.31515915537345685,
+      "confidence": 0.5673747610295993,
+      "timestamp": "2025-08-07T15:46:08.739523"
+    },
+    {
+      "ticker": "NVDA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.31%",
+      "price": 182.18,
+      "change_percent": 0.3148536244508761,
+      "confidence": 0.6575144937227732,
+      "timestamp": "2025-08-07T15:33:15.380287"
+    },
+    {
+      "ticker": "INTC",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.31%",
+      "price": 19.785,
+      "change_percent": 0.30672513878679364,
+      "confidence": 0.5523581705275467,
+      "timestamp": "2025-08-07T15:33:08.270441"
+    },
+    {
+      "ticker": "CRM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.40%",
+      "price": 244.66,
+      "change_percent": 0.40422694162305745,
+      "confidence": 0.7403373764425288,
+      "timestamp": "2025-08-07T15:33:02.698205"
+    },
+    {
+      "ticker": "BRK.B",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.29%",
+      "price": 462.69,
+      "change_percent": -0.28662557648376885,
+      "confidence": 0.633531328642715,
+      "timestamp": "2025-08-07T15:30:07.262688"
+    },
+    {
+      "ticker": "CRM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.24%",
+      "price": 245.2,
+      "change_percent": -0.24004231254322936,
+      "confidence": 0.6023015987580919,
+      "timestamp": "2025-08-07T15:17:10.523496"
+    },
+    {
+      "ticker": "ABBV",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.24%",
+      "price": 197.71,
+      "change_percent": 0.24337068397303563,
+      "confidence": 0.6029470299287385,
+      "timestamp": "2025-08-07T15:14:12.643646"
+    }
+  ],
+  "predictions_verification": []
+}

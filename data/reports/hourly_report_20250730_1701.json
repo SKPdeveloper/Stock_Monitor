@@ -1,0 +1,151 @@
+{
+  "timestamp": "2025-07-30T17:01:09.820828",
+  "period": "16:01 - 17:01",
+  "total_signals": 13,
+  "signals_by_type": {
+    "prediction": 5,
+    "price_change": 8
+  },
+  "signals_by_priority": {
+    "info": 9,
+    "important": 4
+  },
+  "signals": [
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 2.0%",
+      "price": 261.54,
+      "change_percent": -2.0136906257764795,
+      "confidence": 0.3,
+      "timestamp": "2025-07-30T16:54:02.866595",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 178.975,
+      "change_percent": 1.4944364107244532,
+      "confidence": 0.3,
+      "timestamp": "2025-07-30T16:53:56.955453",
+      "period_hours": 24
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.70%",
+      "price": 94.0015,
+      "change_percent": -0.6956475808155542,
+      "confidence": 0.7057406914310915,
+      "timestamp": "2025-07-30T16:46:52.670667"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.81%",
+      "price": 94.18,
+      "change_percent": 0.8135302932990849,
+      "confidence": 0.7584526625474861,
+      "timestamp": "2025-07-30T16:34:39.357324"
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.2%",
+      "price": 17.025,
+      "change_percent": 1.2491494890106145,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-07-30T16:29:53.644963",
+      "period_hours": 12
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 17.025,
+      "change_percent": 0.6245747445053073,
+      "confidence": 0.4800000000000001,
+      "timestamp": "2025-07-30T16:29:53.644848",
+      "period_hours": 6
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.9%",
+      "price": 16.91,
+      "change_percent": 1.8974659338307638,
+      "confidence": 0.3,
+      "timestamp": "2025-07-30T16:25:38.394445",
+      "period_hours": 24
+    },
+    {
+      "ticker": "MARA",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.39%",
+      "price": 16.8922,
+      "change_percent": -1.388207822533567,
+      "confidence": 0.8710397475179332,
+      "timestamp": "2025-07-30T16:24:12.014524"
+    },
+    {
+      "ticker": "MARA",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.27%",
+      "price": 17.13,
+      "change_percent": 1.2722586137583618,
+      "confidence": 0.8233441567823125,
+      "timestamp": "2025-07-30T16:23:26.768114"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.63%",
+      "price": 259.465,
+      "change_percent": -0.633808210784325,
+      "confidence": 0.675396022855222,
+      "timestamp": "2025-07-30T16:12:49.463604"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.03%",
+      "price": 92.49,
+      "change_percent": -1.0272873194221595,
+      "confidence": 0.9034767545571072,
+      "timestamp": "2025-07-30T16:12:46.812307"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.60%",
+      "price": 261.12,
+      "change_percent": 0.6036914989649642,
+      "confidence": 0.6622990049068852,
+      "timestamp": "2025-07-30T16:11:45.220140"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.28%",
+      "price": 93.45,
+      "change_percent": 1.27885553267585,
+      "confidence": 0.9645386409240073,
+      "timestamp": "2025-07-30T16:11:37.136589"
+    }
+  ],
+  "predictions_verification": []
+}

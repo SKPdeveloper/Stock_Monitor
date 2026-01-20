@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-07-28T21:03:18.114568",
+  "period": "20:03 - 21:03",
+  "total_signals": 1,
+  "signals_by_type": {
+    "prediction": 1
+  },
+  "signals_by_priority": {
+    "info": 1
+  },
+  "signals": [
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 122.225,
+      "change_percent": -1.40972407976868,
+      "confidence": 0.3,
+      "timestamp": "2025-07-28T20:06:26.227895",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

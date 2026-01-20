@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-08-07T18:04:13.697025",
+  "period": "17:04 - 18:04",
+  "total_signals": 7,
+  "signals_by_type": {
+    "prediction": 5,
+    "pattern": 1,
+    "price_change": 1
+  },
+  "signals_by_priority": {
+    "info": 7
+  },
+  "signals": [
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 243.085,
+      "change_percent": -1.388619183915731,
+      "confidence": 0.4392749872735857,
+      "timestamp": "2025-08-07T17:53:47.890125",
+      "period_hours": 12
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.3%",
+      "price": 243.15,
+      "change_percent": -0.34922715618354644,
+      "confidence": 0.62465205381447,
+      "timestamp": "2025-08-07T17:52:21.564287",
+      "period_hours": 3
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.7%",
+      "price": 243.05,
+      "change_percent": -0.6840315475321426,
+      "confidence": 0.546854463232651,
+      "timestamp": "2025-08-07T17:46:38.042219",
+      "period_hours": 6
+    },
+    {
+      "ticker": "NKE",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.2% до -0.3%)",
+      "price": 74.0555,
+      "change_percent": -0.33214692688036485,
+      "confidence": 0.6,
+      "timestamp": "2025-08-07T17:35:04.178778"
+    },
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 120.055,
+      "change_percent": 1.5274820721070934,
+      "confidence": 0.5,
+      "timestamp": "2025-08-07T17:26:08.651680",
+      "period_hours": 24
+    },
+    {
+      "ticker": "MARA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.48%",
+      "price": 15.665,
+      "change_percent": -0.47649301143583905,
+      "confidence": 0.5023810519617462,
+      "timestamp": "2025-08-07T17:19:10.182568"
+    },
+    {
+      "ticker": "C",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 91.56,
+      "change_percent": 1.606889748854199,
+      "confidence": 0.3,
+      "timestamp": "2025-08-07T17:13:12.492163",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

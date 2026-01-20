@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-08-13T17:04:22.836826",
+  "period": "16:04 - 17:04",
+  "total_signals": 9,
+  "signals_by_type": {
+    "pattern": 1,
+    "prediction": 6,
+    "model_consensus": 2
+  },
+  "signals_by_priority": {
+    "info": 7,
+    "important": 2
+  },
+  "signals": [
+    {
+      "ticker": "UNP",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.1%)",
+      "price": 222.56,
+      "change_percent": 0.05535943277346078,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T17:01:18.358271"
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 77.105,
+      "change_percent": 1.5213805913452676,
+      "confidence": 0.3,
+      "timestamp": "2025-08-13T17:01:12.352484",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 307.8822,
+      "change_percent": 1.5679342700926724,
+      "confidence": 0.5273204921072613,
+      "timestamp": "2025-08-13T16:59:33.283171"
+    },
+    {
+      "ticker": "AVGO",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 308.27,
+      "change_percent": 1.5281435520490385,
+      "confidence": 0.5266282681847503,
+      "timestamp": "2025-08-13T16:52:27.478461"
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.6%",
+      "price": 308.435,
+      "change_percent": 2.5825976333012424,
+      "confidence": 0.31808413565218574,
+      "timestamp": "2025-08-13T16:51:00.917355",
+      "period_hours": 24
+    },
+    {
+      "ticker": "WFC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.7%",
+      "price": 78.325,
+      "change_percent": -1.6888910414817977,
+      "confidence": 0.3915511682728947,
+      "timestamp": "2025-08-13T16:40:03.736848",
+      "period_hours": 24
+    },
+    {
+      "ticker": "WFC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.8%",
+      "price": 78.325,
+      "change_percent": -0.8444455207408988,
+      "confidence": 0.6315511682728947,
+      "timestamp": "2025-08-13T16:40:03.736734",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.3%",
+      "price": 308.775,
+      "change_percent": 0.3159542590115724,
+      "confidence": 0.740928587815179,
+      "timestamp": "2025-08-13T16:36:53.690743",
+      "period_hours": 3
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 660.28,
+      "change_percent": 1.6807554364692143,
+      "confidence": 0.3,
+      "timestamp": "2025-08-13T16:05:30.640007",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

@@ -1,0 +1,84 @@
+{
+  "timestamp": "2025-07-28T20:03:48.101305",
+  "period": "19:03 - 20:03",
+  "total_signals": 7,
+  "signals_by_type": {
+    "price_change": 7
+  },
+  "signals_by_priority": {
+    "info": 7
+  },
+  "signals": [
+    {
+      "ticker": "QCOM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.61%",
+      "price": 160.74,
+      "change_percent": 0.6102713360248007,
+      "confidence": 0.5542797243458228,
+      "timestamp": "2025-07-28T19:49:40.239137"
+    },
+    {
+      "ticker": "QCOM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.58%",
+      "price": 159.765,
+      "change_percent": -0.5756425415396175,
+      "confidence": 0.5398510599201309,
+      "timestamp": "2025-07-28T19:49:20.212719"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.49%",
+      "price": 807.5,
+      "change_percent": 0.4878170188406828,
+      "confidence": 0.5032570917829243,
+      "timestamp": "2025-07-28T19:49:15.711896"
+    },
+    {
+      "ticker": "JNJ",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.51%",
+      "price": 165.32,
+      "change_percent": -0.5055368319691884,
+      "confidence": 0.5106403472710819,
+      "timestamp": "2025-07-28T19:49:11.624746"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.56%",
+      "price": 280.04,
+      "change_percent": -0.5557429733136833,
+      "confidence": 0.6315595726927369,
+      "timestamp": "2025-07-28T19:27:04.346780"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.51%",
+      "price": 804.21,
+      "change_percent": -0.5066156958078837,
+      "confidence": 0.6110898738768624,
+      "timestamp": "2025-07-28T19:26:55.277886"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.59%",
+      "price": 281.605,
+      "change_percent": 0.5947703079231337,
+      "confidence": 0.6478209621469962,
+      "timestamp": "2025-07-28T19:26:51.670619"
+    }
+  ],
+  "predictions_verification": []
+}

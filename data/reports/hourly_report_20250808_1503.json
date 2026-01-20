@@ -1,0 +1,280 @@
+{
+  "timestamp": "2025-08-08T15:03:54.206930",
+  "period": "14:03 - 15:03",
+  "total_signals": 25,
+  "signals_by_type": {
+    "prediction": 12,
+    "model_consensus": 2,
+    "price_change": 3,
+    "pattern": 8
+  },
+  "signals_by_priority": {
+    "info": 23,
+    "important": 2
+  },
+  "signals": [
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.5%",
+      "price": 333.529,
+      "change_percent": 2.4957212876517625,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T14:57:49.532402",
+      "period_hours": 24
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 333.655,
+      "change_percent": 0.6058222669360731,
+      "confidence": 0.5353517584087669,
+      "timestamp": "2025-08-08T14:52:07.162865",
+      "period_hours": 6
+    },
+    {
+      "ticker": "V",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.6%",
+      "price": 335.9825,
+      "change_percent": -1.6002937560934127,
+      "confidence": 0.3812134523323678,
+      "timestamp": "2025-08-08T14:42:09.618082",
+      "period_hours": 24
+    },
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 19.8,
+      "change_percent": 0.8864675891382019,
+      "confidence": 0.4800000000000001,
+      "timestamp": "2025-08-08T14:41:55.940714",
+      "period_hours": 6
+    },
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.4%",
+      "price": 19.8,
+      "change_percent": 0.44323379456910095,
+      "confidence": 0.54,
+      "timestamp": "2025-08-08T14:41:55.940606",
+      "period_hours": 3
+    },
+    {
+      "ticker": "INTC",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 19.8,
+      "change_percent": 1.68822394681409,
+      "confidence": 0.4453455096400618,
+      "timestamp": "2025-08-08T14:41:55.940435"
+    },
+    {
+      "ticker": "NFLX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 1205.965,
+      "change_percent": -1.4099552643077373,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T14:39:07.080116",
+      "period_hours": 24
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 15.67,
+      "change_percent": -1.3735985103475623,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T14:34:38.152781",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CVX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.62%",
+      "price": 154.465,
+      "change_percent": -0.6240550712516478,
+      "confidence": 0.7073600866135122,
+      "timestamp": "2025-08-08T14:24:06.496303"
+    },
+    {
+      "ticker": "K",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.1%)",
+      "price": 80.075,
+      "change_percent": 0.12736991132952236,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:20:19.294333"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 92.165,
+      "change_percent": 1.7355672843345045,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T14:19:03.596605",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NVDA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.6%)",
+      "price": 181.69,
+      "change_percent": 0.637364455015373,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:19:00.969622"
+    },
+    {
+      "ticker": "ACN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.45%",
+      "price": 242.1687,
+      "change_percent": 0.4453431220058493,
+      "confidence": 0.6237972642602311,
+      "timestamp": "2025-08-08T14:17:20.425856"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 333.1001,
+      "change_percent": 0.989300838131271,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-08T14:14:50.120815",
+      "period_hours": 12
+    },
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.0% до -0.9%)",
+      "price": 249.08,
+      "change_percent": -0.8574779069170738,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:14:46.666857"
+    },
+    {
+      "ticker": "DIS",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 113.17,
+      "change_percent": -0.9597603134923036,
+      "confidence": 0.4093530846343829,
+      "timestamp": "2025-08-08T14:11:46.871436",
+      "period_hours": 12
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 330.945,
+      "change_percent": 1.465221126276559,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T14:10:34.015851",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NVDA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.7%)",
+      "price": 182.23,
+      "change_percent": 0.7369384993811383,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:10:30.321251"
+    },
+    {
+      "ticker": "MARA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.48%",
+      "price": 15.815,
+      "change_percent": 0.4764930114358278,
+      "confidence": 0.5359104893902863,
+      "timestamp": "2025-08-08T14:10:26.774461"
+    },
+    {
+      "ticker": "PM",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 1.0%)",
+      "price": 168.95,
+      "change_percent": 0.9689227223834918,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:09:06.135960"
+    },
+    {
+      "ticker": "AMGN",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.6% до -1.6%)",
+      "price": 285.33,
+      "change_percent": -1.6344910573433125,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:07:21.629468"
+    },
+    {
+      "ticker": "ADBE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.3%",
+      "price": 337.58,
+      "change_percent": 1.2740782712960739,
+      "confidence": 0.43707118455335836,
+      "timestamp": "2025-08-08T14:07:21.282979",
+      "period_hours": 24
+    },
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.0% до -0.7%)",
+      "price": 250.0,
+      "change_percent": -0.734511201489163,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:06:11.966500"
+    },
+    {
+      "ticker": "LLY",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -1.2% до -5.2%)",
+      "price": 648.08,
+      "change_percent": -5.188703929511443,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T14:04:19.655458"
+    },
+    {
+      "ticker": "CRM",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 240.72,
+      "change_percent": 2.084571324329521,
+      "confidence": 0.4775592654489878,
+      "timestamp": "2025-08-08T14:04:07.957714"
+    }
+  ],
+  "predictions_verification": []
+}

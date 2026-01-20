@@ -1,0 +1,142 @@
+{
+  "timestamp": "2025-08-15T17:03:48.589609",
+  "period": "16:03 - 17:03",
+  "total_signals": 12,
+  "signals_by_type": {
+    "pattern": 5,
+    "price_change": 2,
+    "prediction": 5
+  },
+  "signals_by_priority": {
+    "info": 11,
+    "important": 1
+  },
+  "signals": [
+    {
+      "ticker": "NEE",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.6% до 1.6%)",
+      "price": 75.35,
+      "change_percent": 1.6114694255179751,
+      "confidence": 0.6,
+      "timestamp": "2025-08-15T17:03:38.958521"
+    },
+    {
+      "ticker": "NEE",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.6% до 1.5%)",
+      "price": 75.09,
+      "change_percent": 1.491498956710302,
+      "confidence": 0.6,
+      "timestamp": "2025-08-15T17:02:01.762832"
+    },
+    {
+      "ticker": "NEE",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.6% до 1.4%)",
+      "price": 74.84,
+      "change_percent": 1.3761427367029158,
+      "confidence": 0.6,
+      "timestamp": "2025-08-15T16:59:00.638739"
+    },
+    {
+      "ticker": "NEE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.90%",
+      "price": 74.84,
+      "change_percent": 0.8965284799460819,
+      "confidence": 0.6660687728197567,
+      "timestamp": "2025-08-15T16:59:00.636357"
+    },
+    {
+      "ticker": "NEE",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.37%",
+      "price": 73.85,
+      "change_percent": 1.3726835964310227,
+      "confidence": 0.8613643905642259,
+      "timestamp": "2025-08-15T16:56:06.171539"
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 178.95,
+      "change_percent": 1.7780418418413642,
+      "confidence": 0.3115427474979855,
+      "timestamp": "2025-08-15T16:53:13.025263",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 301.645,
+      "change_percent": 0.5011445442773808,
+      "confidence": 0.86,
+      "timestamp": "2025-08-15T16:52:57.516617",
+      "period_hours": 6
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.1%",
+      "price": 302.095,
+      "change_percent": 2.072274781174326,
+      "confidence": 0.5,
+      "timestamp": "2025-08-15T16:51:30.547390",
+      "period_hours": 24
+    },
+    {
+      "ticker": "T",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.6%)",
+      "price": 28.96,
+      "change_percent": 0.5606434241337999,
+      "confidence": 0.6,
+      "timestamp": "2025-08-15T16:14:03.414881"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 90.9151,
+      "change_percent": 0.8051563570316019,
+      "confidence": 0.6652162086912179,
+      "timestamp": "2025-08-15T16:14:03.044701",
+      "period_hours": 12
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 2.0%",
+      "price": 331.8104,
+      "change_percent": -1.9580905018522874,
+      "confidence": 0.3,
+      "timestamp": "2025-08-15T16:06:30.663148",
+      "period_hours": 24
+    },
+    {
+      "ticker": "T",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.5%)",
+      "price": 28.915,
+      "change_percent": 0.5084695110903148,
+      "confidence": 0.6,
+      "timestamp": "2025-08-15T16:05:02.879327"
+    }
+  ],
+  "predictions_verification": []
+}

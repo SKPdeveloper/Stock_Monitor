@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-01T20:03:06.290653",
+  "period": "19:03 - 20:03",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 4
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "HON",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 217.77,
+      "change_percent": 1.443306989153342,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T20:02:49.693628",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 289.22,
+      "change_percent": 1.4660351216774574,
+      "confidence": 0.5,
+      "timestamp": "2025-08-01T19:49:19.067570",
+      "period_hours": 24
+    },
+    {
+      "ticker": "C",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 91.35,
+      "change_percent": -1.5366547166614801,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T19:20:18.970921",
+      "period_hours": 24
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 86.34,
+      "change_percent": 1.7658434467001483,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T19:04:13.112619",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

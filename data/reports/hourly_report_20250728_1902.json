@@ -1,0 +1,57 @@
+{
+  "timestamp": "2025-07-28T19:02:53.437514",
+  "period": "18:02 - 19:02",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 2,
+    "price_change": 2
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 328.03,
+      "change_percent": 1.5727329504873464,
+      "confidence": 0.3,
+      "timestamp": "2025-07-28T18:52:17.587709",
+      "period_hours": 24
+    },
+    {
+      "ticker": "TSLA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.54%",
+      "price": 328.05,
+      "change_percent": 0.5386887769034083,
+      "confidence": 0.5244536573480683,
+      "timestamp": "2025-07-28T18:40:45.956895"
+    },
+    {
+      "ticker": "PG",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 156.51,
+      "change_percent": 0.7822501788950552,
+      "confidence": 0.7216804628193729,
+      "timestamp": "2025-07-28T18:34:47.488681",
+      "period_hours": 12
+    },
+    {
+      "ticker": "TSLA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.59%",
+      "price": 326.89,
+      "change_percent": -0.5873705300202471,
+      "confidence": 0.5447377211710301,
+      "timestamp": "2025-07-28T18:06:17.253314"
+    }
+  ],
+  "predictions_verification": []
+}

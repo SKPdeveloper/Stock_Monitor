@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-01T21:04:39.411721",
+  "period": "20:04 - 21:04",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "CMCSA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 32.52,
+      "change_percent": 0.8524124598074001,
+      "confidence": 0.6122681420256131,
+      "timestamp": "2025-08-01T20:55:18.997550",
+      "period_hours": 12
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 32.52,
+      "change_percent": 1.7048249196148002,
+      "confidence": 0.3722681420256131,
+      "timestamp": "2025-08-01T20:44:55.771272",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

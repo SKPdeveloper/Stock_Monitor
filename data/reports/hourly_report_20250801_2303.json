@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-01T23:03:46.538482",
+  "period": "22:03 - 23:03",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "CMCSA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 32.52,
+      "change_percent": 0.8524124598074001,
+      "confidence": 0.6122681420256131,
+      "timestamp": "2025-08-01T22:56:02.520701",
+      "period_hours": 12
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 86.86,
+      "change_percent": 1.605805090015857,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T22:05:35.434150",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

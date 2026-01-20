@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-07-29T21:00:36.542899",
+  "period": "20:00 - 21:00",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 20.41,
+      "change_percent": 1.4448400814792717,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T20:32:28.817845",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 764.9118,
+      "change_percent": 1.4535078396396515,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T20:07:13.711505",
+      "period_hours": 24
+    },
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.8%",
+      "price": 191.28,
+      "change_percent": -1.774911758107571,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T20:05:57.603431",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

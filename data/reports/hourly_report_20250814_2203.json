@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-14T22:03:04.475394",
+  "period": "21:03 - 22:03",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.6%",
+      "price": 202.94,
+      "change_percent": -0.6099556746107576,
+      "confidence": 0.86,
+      "timestamp": "2025-08-14T21:40:09.926927",
+      "period_hours": 6
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.3%",
+      "price": 202.94,
+      "change_percent": -0.3049778373053788,
+      "confidence": 0.9199999999999999,
+      "timestamp": "2025-08-14T21:10:22.404047",
+      "period_hours": 3
+    },
+    {
+      "ticker": "ACN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.9%",
+      "price": 246.16,
+      "change_percent": -0.9419558563218147,
+      "confidence": 0.47448076019258956,
+      "timestamp": "2025-08-14T21:05:49.999128",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

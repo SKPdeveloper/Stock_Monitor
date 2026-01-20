@@ -1,0 +1,89 @@
+{
+  "timestamp": "2025-08-12T18:04:54.107423",
+  "period": "17:04 - 18:04",
+  "total_signals": 7,
+  "signals_by_type": {
+    "pattern": 3,
+    "prediction": 4
+  },
+  "signals_by_priority": {
+    "info": 7
+  },
+  "signals": [
+    {
+      "ticker": "COST",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.4%)",
+      "price": 989.14,
+      "change_percent": 0.39754833692856223,
+      "confidence": 0.6,
+      "timestamp": "2025-08-12T18:03:00.850269"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.9%",
+      "price": 203.81,
+      "change_percent": -0.9483939942306332,
+      "confidence": 0.46272090905638774,
+      "timestamp": "2025-08-12T18:01:30.743827",
+      "period_hours": 12
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 260.2812,
+      "change_percent": -0.9626180971127629,
+      "confidence": 0.4720336232222404,
+      "timestamp": "2025-08-12T17:35:36.707526",
+      "period_hours": 12
+    },
+    {
+      "ticker": "COST",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.4%)",
+      "price": 989.24,
+      "change_percent": 0.40091963103351763,
+      "confidence": 0.6,
+      "timestamp": "2025-08-12T17:28:04.691792"
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 74.755,
+      "change_percent": 1.368072092259476,
+      "confidence": 0.3,
+      "timestamp": "2025-08-12T17:21:04.432533",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LLY",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.2%)",
+      "price": 644.225,
+      "change_percent": 0.19128500645589908,
+      "confidence": 0.6,
+      "timestamp": "2025-08-12T17:09:23.383193"
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 644.15,
+      "change_percent": 1.0210881180007991,
+      "confidence": 0.4382478955287932,
+      "timestamp": "2025-08-12T17:07:47.238428",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

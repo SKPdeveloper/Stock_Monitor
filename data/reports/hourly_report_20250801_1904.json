@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-01T19:04:19.986250",
+  "period": "18:04 - 19:04",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 4
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 86.34,
+      "change_percent": 1.7658434467001483,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T19:04:13.112619",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 32.725,
+      "change_percent": 0.830823666816428,
+      "confidence": 0.6355542488901702,
+      "timestamp": "2025-08-01T18:55:02.865255",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AXP",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 293.58,
+      "change_percent": -1.4395241162397572,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T18:49:09.130569",
+      "period_hours": 24
+    },
+    {
+      "ticker": "WFC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 77.56,
+      "change_percent": -1.4920393376477101,
+      "confidence": 0.3,
+      "timestamp": "2025-08-01T18:20:46.528436",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

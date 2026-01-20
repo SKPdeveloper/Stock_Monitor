@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-07-29T18:02:35.930878",
+  "period": "17:02 - 18:02",
+  "total_signals": 8,
+  "signals_by_type": {
+    "price_change": 6,
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 8
+  },
+  "signals": [
+    {
+      "ticker": "UPS",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.64%",
+      "price": 91.72,
+      "change_percent": -0.6391506878994728,
+      "confidence": 0.716312787117165,
+      "timestamp": "2025-07-29T17:54:08.153555"
+    },
+    {
+      "ticker": "V",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.48%",
+      "price": 352.49,
+      "change_percent": -0.4827780914737379,
+      "confidence": 0.6011575393073391,
+      "timestamp": "2025-07-29T17:53:04.965494"
+    },
+    {
+      "ticker": "UPS",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.57%",
+      "price": 92.31,
+      "change_percent": 0.5665105131277873,
+      "confidence": 0.6860460475738633,
+      "timestamp": "2025-07-29T17:53:03.471108"
+    },
+    {
+      "ticker": "PM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.6%",
+      "price": 161.34,
+      "change_percent": -1.5969179799040851,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T17:52:39.967910",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LOW",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.54%",
+      "price": 228.245,
+      "change_percent": -0.5446741759079718,
+      "confidence": 0.6269475740556472,
+      "timestamp": "2025-07-29T17:52:27.911904"
+    },
+    {
+      "ticker": "ADBE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.60%",
+      "price": 375.425,
+      "change_percent": 0.5961950696677445,
+      "confidence": 0.5484146132748994,
+      "timestamp": "2025-07-29T17:52:23.634472"
+    },
+    {
+      "ticker": "ADBE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.64%",
+      "price": 373.2,
+      "change_percent": -0.6363321707180667,
+      "confidence": 0.5651384054403586,
+      "timestamp": "2025-07-29T17:51:47.582635"
+    },
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.8%",
+      "price": 191.27,
+      "change_percent": -1.785510020927937,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T17:04:58.817622",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

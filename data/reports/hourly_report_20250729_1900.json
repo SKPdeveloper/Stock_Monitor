@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-07-29T19:00:22.556236",
+  "period": "18:00 - 19:00",
+  "total_signals": 3,
+  "signals_by_type": {
+    "pattern": 1,
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "META",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.2% до -0.3%)",
+      "price": 707.8801,
+      "change_percent": -0.3202166673050141,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T18:42:06.951381"
+    },
+    {
+      "ticker": "BMY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 46.925,
+      "change_percent": 1.4146178453046658,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T18:36:19.843659",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 32.835,
+      "change_percent": 1.4880712123694952,
+      "confidence": 0.36682579747058774,
+      "timestamp": "2025-07-29T18:34:55.959562",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

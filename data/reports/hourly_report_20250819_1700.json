@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-19T17:00:29.890184",
+  "period": "16:00 - 17:00",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 4
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 296.955,
+      "change_percent": 1.7446676108441581,
+      "confidence": 0.49720313399265614,
+      "timestamp": "2025-08-19T16:51:44.863948",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CRM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 244.085,
+      "change_percent": 0.4819776185548439,
+      "confidence": 0.8115590608117574,
+      "timestamp": "2025-08-19T16:46:12.160603",
+      "period_hours": 6
+    },
+    {
+      "ticker": "T",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 28.92,
+      "change_percent": -1.3926566561834046,
+      "confidence": 0.3,
+      "timestamp": "2025-08-19T16:07:10.346725",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CRM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 244.64,
+      "change_percent": 1.7196081649106285,
+      "confidence": 0.472262961908539,
+      "timestamp": "2025-08-19T16:05:14.655286",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

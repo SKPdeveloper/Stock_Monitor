@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-07-31T18:01:27.221311",
+  "period": "17:01 - 18:01",
+  "total_signals": 6,
+  "signals_by_type": {
+    "price_change": 4,
+    "prediction": 1,
+    "pattern": 1
+  },
+  "signals_by_priority": {
+    "info": 6
+  },
+  "signals": [
+    {
+      "ticker": "ABBV",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.53%",
+      "price": 192.32,
+      "change_percent": -0.5327126971812781,
+      "confidence": 0.5192759348628202,
+      "timestamp": "2025-07-31T18:01:00.755607"
+    },
+    {
+      "ticker": "PFE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 23.7001,
+      "change_percent": 1.5245247645336963,
+      "confidence": 0.3,
+      "timestamp": "2025-07-31T17:54:04.623968",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.55%",
+      "price": 760.66,
+      "change_percent": 0.5485717307107608,
+      "confidence": 0.5258303083296081,
+      "timestamp": "2025-07-31T17:49:38.065970"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.82%",
+      "price": 756.51,
+      "change_percent": -0.8200428703466985,
+      "confidence": 0.7876159636243799,
+      "timestamp": "2025-07-31T17:48:11.539881"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.8% до -1.7%)",
+      "price": 309.685,
+      "change_percent": -1.651011305992811,
+      "confidence": 0.6,
+      "timestamp": "2025-07-31T17:46:53.748244"
+    },
+    {
+      "ticker": "MARA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.76%",
+      "price": 16.325,
+      "change_percent": -0.7598784194528876,
+      "confidence": 0.7486849326540251,
+      "timestamp": "2025-07-31T17:41:12.076142"
+    }
+  ],
+  "predictions_verification": []
+}

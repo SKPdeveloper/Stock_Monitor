@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-08-13T23:02:51.801675",
+  "period": "22:02 - 23:02",
+  "total_signals": 1,
+  "signals_by_type": {
+    "prediction": 1
+  },
+  "signals_by_priority": {
+    "info": 1
+  },
+  "signals": [
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.9%",
+      "price": 660.49,
+      "change_percent": 1.8895665560520036,
+      "confidence": 0.3,
+      "timestamp": "2025-08-13T22:07:23.544801",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

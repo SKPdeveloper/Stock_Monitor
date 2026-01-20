@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-15T22:04:43.383108",
+  "period": "21:04 - 22:04",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 90.6,
+      "change_percent": 0.5251187565868515,
+      "confidence": 0.843145740455583,
+      "timestamp": "2025-08-15T21:44:06.335890",
+      "period_hours": 6
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.1%",
+      "price": 90.6,
+      "change_percent": 2.100475026347406,
+      "confidence": 0.483145740455583,
+      "timestamp": "2025-08-15T21:13:52.426263",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

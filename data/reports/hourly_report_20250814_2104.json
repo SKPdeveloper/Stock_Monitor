@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-14T21:04:42.606952",
+  "period": "20:04 - 21:04",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.1%",
+      "price": 203.06,
+      "change_percent": -1.0818590615224681,
+      "confidence": 0.74,
+      "timestamp": "2025-08-14T20:09:11.718080",
+      "period_hours": 12
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.5%",
+      "price": 203.06,
+      "change_percent": -0.5409295307612341,
+      "confidence": 0.86,
+      "timestamp": "2025-08-14T20:09:11.717988",
+      "period_hours": 6
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.3%",
+      "price": 203.06,
+      "change_percent": -0.27046476538061703,
+      "confidence": 0.9199999999999999,
+      "timestamp": "2025-08-14T20:09:11.717886",
+      "period_hours": 3
+    }
+  ],
+  "predictions_verification": []
+}

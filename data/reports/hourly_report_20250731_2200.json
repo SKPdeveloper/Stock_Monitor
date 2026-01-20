@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-07-31T22:00:56.043285",
+  "period": "21:00 - 22:00",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 89.16,
+      "change_percent": 0.8981990848234445,
+      "confidence": 0.5676745831712031,
+      "timestamp": "2025-07-31T21:59:26.799941",
+      "period_hours": 12
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 89.16,
+      "change_percent": 1.796398169646889,
+      "confidence": 0.3276745831712031,
+      "timestamp": "2025-07-31T21:48:06.126118",
+      "period_hours": 24
+    },
+    {
+      "ticker": "UPS",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 86.16,
+      "change_percent": 1.3816840360755982,
+      "confidence": 0.3,
+      "timestamp": "2025-07-31T21:06:40.014669",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

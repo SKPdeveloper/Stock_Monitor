@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-11T23:04:26.559910",
+  "period": "22:04 - 23:04",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "INTC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 20.65,
+      "change_percent": 0.9241537854368334,
+      "confidence": 0.5007024279876278,
+      "timestamp": "2025-08-11T22:16:13.243684",
+      "period_hours": 12
+    },
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.2%",
+      "price": 183.71,
+      "change_percent": 1.1618205117650013,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-11T22:14:59.437796",
+      "period_hours": 12
+    },
+    {
+      "ticker": "QCOM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 147.97,
+      "change_percent": 0.924401493349471,
+      "confidence": 0.5591458501910518,
+      "timestamp": "2025-08-11T22:10:35.481791",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

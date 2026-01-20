@@ -1,0 +1,20 @@
+{
+  "symbols": [
+    "ARBUSDT",
+    "XRPUSDT",
+    "DOTUSDT",
+    "SOLUSDT",
+    "AVAXUSDT",
+    "MATICUSDT"
+  ],
+  "last_updated": "2025-08-27T16:28:17.390168",
+  "auto_added": [],
+  "manually_added": [
+    "ARBUSDT",
+    "XRPUSDT",
+    "DOTUSDT",
+    "SOLUSDT",
+    "AVAXUSDT",
+    "MATICUSDT"
+  ]
+}

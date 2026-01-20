@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-07-24T23:04:41.827784",
+  "period": "22:04 - 23:04",
+  "total_signals": 3,
+  "signals_by_type": {
+    "volume_spike": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "UNP",
+      "type": "volume_spike",
+      "priority": "info",
+      "message": "📊 Аномальний об'єм торгів",
+      "price": 220.52,
+      "change_percent": 0.0,
+      "confidence": 0.8,
+      "timestamp": "2025-07-24T22:24:02.316780"
+    },
+    {
+      "ticker": "TMO",
+      "type": "volume_spike",
+      "priority": "info",
+      "message": "📊 Аномальний об'єм торгів",
+      "price": 475.03,
+      "change_percent": 0.0,
+      "confidence": 0.8,
+      "timestamp": "2025-07-24T22:24:00.884043"
+    },
+    {
+      "ticker": "HON",
+      "type": "volume_spike",
+      "priority": "info",
+      "message": "📊 Аномальний об'єм торгів",
+      "price": 224.48,
+      "change_percent": 0.0,
+      "confidence": 0.8,
+      "timestamp": "2025-07-24T22:23:51.148201"
+    }
+  ],
+  "predictions_verification": []
+}

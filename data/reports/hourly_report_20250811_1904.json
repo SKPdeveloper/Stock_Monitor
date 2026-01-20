@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-08-11T19:04:18.722205",
+  "period": "18:04 - 19:04",
+  "total_signals": 5,
+  "signals_by_type": {
+    "prediction": 2,
+    "pattern": 3
+  },
+  "signals_by_priority": {
+    "info": 5
+  },
+  "signals": [
+    {
+      "ticker": "QCOM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 148.415,
+      "change_percent": 1.498624579511806,
+      "confidence": 0.3561637982766337,
+      "timestamp": "2025-08-11T19:04:13.859625",
+      "period_hours": 24
+    },
+    {
+      "ticker": "KO",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 0.5%)",
+      "price": 70.6421,
+      "change_percent": 0.5417498234886502,
+      "confidence": 0.6,
+      "timestamp": "2025-08-11T18:50:49.368151"
+    },
+    {
+      "ticker": "KO",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 0.6%)",
+      "price": 70.665,
+      "change_percent": 0.5526018754268613,
+      "confidence": 0.6,
+      "timestamp": "2025-08-11T18:37:18.986538"
+    },
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 184.295,
+      "change_percent": 1.818847844032219,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T18:36:30.165769",
+      "period_hours": 24
+    },
+    {
+      "ticker": "KO",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 0.5%)",
+      "price": 70.61,
+      "change_percent": 0.5265379952259324,
+      "confidence": 0.6,
+      "timestamp": "2025-08-11T18:20:27.769435"
+    }
+  ],
+  "predictions_verification": []
+}

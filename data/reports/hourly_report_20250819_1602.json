@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-08-19T16:02:31.421974",
+  "period": "15:02 - 16:02",
+  "total_signals": 11,
+  "signals_by_type": {
+    "price_change": 6,
+    "prediction": 3,
+    "pattern": 2
+  },
+  "signals_by_priority": {
+    "info": 11
+  },
+  "signals": [
+    {
+      "ticker": "AVGO",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.26%",
+      "price": 298.645,
+      "change_percent": -0.2621647797481966,
+      "confidence": 0.6260140160938078,
+      "timestamp": "2025-08-19T15:52:14.359580"
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 299.43,
+      "change_percent": 0.9662905985976279,
+      "confidence": 0.6337438591159006,
+      "timestamp": "2025-08-19T15:50:50.857392",
+      "period_hours": 12
+    },
+    {
+      "ticker": "BMY",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 0.6%)",
+      "price": 48.735,
+      "change_percent": 0.6441845311136489,
+      "confidence": 0.6,
+      "timestamp": "2025-08-19T15:29:53.477416"
+    },
+    {
+      "ticker": "CRM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 243.97,
+      "change_percent": 0.4771158128838314,
+      "confidence": 0.8098344658494944,
+      "timestamp": "2025-08-19T15:15:53.581098",
+      "period_hours": 6
+    },
+    {
+      "ticker": "COST",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.24%",
+      "price": 980.735,
+      "change_percent": -0.24158029111696552,
+      "confidence": 0.6007118519159098,
+      "timestamp": "2025-08-19T15:07:26.131726"
+    },
+    {
+      "ticker": "V",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.0% до -0.1%)",
+      "price": 344.51,
+      "change_percent": -0.09367573831693768,
+      "confidence": 0.6,
+      "timestamp": "2025-08-19T15:06:19.397232"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.23%",
+      "price": 92.3,
+      "change_percent": -0.22700248621771477,
+      "confidence": 0.5005197714763265,
+      "timestamp": "2025-08-19T15:06:12.317134"
+    },
+    {
+      "ticker": "NVDA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.25%",
+      "price": 178.26,
+      "change_percent": 0.254150401472146,
+      "confidence": 0.5178648364098172,
+      "timestamp": "2025-08-19T15:06:06.982870"
+    },
+    {
+      "ticker": "CRM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 245.2224,
+      "change_percent": 0.8789540852654613,
+      "confidence": 0.7184467779954116,
+      "timestamp": "2025-08-19T15:05:47.397839",
+      "period_hours": 12
+    },
+    {
+      "ticker": "BABA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.26%",
+      "price": 121.85,
+      "change_percent": -0.261440262455248,
+      "confidence": 0.5151292314511671,
+      "timestamp": "2025-08-19T15:04:06.896206"
+    },
+    {
+      "ticker": "ACN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.53%",
+      "price": 255.43,
+      "change_percent": -0.5334890965732104,
+      "confidence": 0.745069500813635,
+      "timestamp": "2025-08-19T15:02:32.857679"
+    }
+  ],
+  "predictions_verification": []
+}

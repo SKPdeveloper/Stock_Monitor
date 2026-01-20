@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-08T18:03:48.476563",
+  "period": "17:03 - 18:03",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 4
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 303.175,
+      "change_percent": 1.042391521762957,
+      "confidence": 0.6094878129751822,
+      "timestamp": "2025-08-08T17:50:20.941025",
+      "period_hours": 12
+    },
+    {
+      "ticker": "NFLX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.8%",
+      "price": 1211.64,
+      "change_percent": -1.7871907267119476,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T17:39:14.875284",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NFLX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.9%",
+      "price": 1211.64,
+      "change_percent": -0.8935953633559738,
+      "confidence": 0.5122308066084262,
+      "timestamp": "2025-08-08T17:39:14.875107",
+      "period_hours": 12
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 330.11,
+      "change_percent": 1.4687955274216586,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T17:22:11.601194",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

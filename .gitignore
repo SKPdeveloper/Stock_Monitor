@@ -1,0 +1,44 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.db
+
+# Logs
+logs/*.log
+*.log
+
+# Cache
+cache/*
+!cache/.gitkeep
+
+# Models (large files)
+models/*.pkl
+models/*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# System
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+
+# Temporary
+*.tmp
+*.temp
+
+# Large data files
+predictions_log.txt

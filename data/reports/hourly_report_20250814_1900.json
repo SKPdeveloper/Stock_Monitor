@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-14T19:00:18.717062",
+  "period": "18:00 - 19:00",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.5%",
+      "price": 202.98,
+      "change_percent": -0.489351760354561,
+      "confidence": 0.8526932856082786,
+      "timestamp": "2025-08-14T18:38:55.589803",
+      "period_hours": 6
+    },
+    {
+      "ticker": "CRM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.3%",
+      "price": 234.05,
+      "change_percent": 0.2832326087792759,
+      "confidence": 0.8785193140620553,
+      "timestamp": "2025-08-14T18:36:04.516826",
+      "period_hours": 3
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 203.2701,
+      "change_percent": -0.9984593006652552,
+      "confidence": 0.7367728609500346,
+      "timestamp": "2025-08-14T18:07:45.413520",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

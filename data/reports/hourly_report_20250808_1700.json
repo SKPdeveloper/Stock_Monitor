@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-08-08T17:00:15.535745",
+  "period": "16:00 - 17:00",
+  "total_signals": 7,
+  "signals_by_type": {
+    "prediction": 6,
+    "pattern": 1
+  },
+  "signals_by_priority": {
+    "info": 7
+  },
+  "signals": [
+    {
+      "ticker": "UNP",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 223.21,
+      "change_percent": 1.4909694568815413,
+      "confidence": 0.31340588733473895,
+      "timestamp": "2025-08-08T16:51:47.097059",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.9%",
+      "price": 73.8255,
+      "change_percent": 1.8789343691344018,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T16:50:13.105533",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.4%",
+      "price": 304.255,
+      "change_percent": 2.35179752841484,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T16:49:58.049599",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 304.255,
+      "change_percent": 0.58794938210371,
+      "confidence": 0.591135903751563,
+      "timestamp": "2025-08-08T16:49:58.049382",
+      "period_hours": 6
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.9%",
+      "price": 248.91,
+      "change_percent": -0.9369724137891327,
+      "confidence": 0.5026750290681676,
+      "timestamp": "2025-08-08T16:27:33.922050",
+      "period_hours": 12
+    },
+    {
+      "ticker": "DIS",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.8% до -1.6%)",
+      "price": 112.6,
+      "change_percent": -1.6328959528427056,
+      "confidence": 0.6,
+      "timestamp": "2025-08-08T16:07:27.641887"
+    },
+    {
+      "ticker": "ACN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.3%",
+      "price": 238.38,
+      "change_percent": -1.2770384689019565,
+      "confidence": 0.4888661269041925,
+      "timestamp": "2025-08-08T16:04:02.725202",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

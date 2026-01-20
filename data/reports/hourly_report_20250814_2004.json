@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-08-14T20:04:59.454518",
+  "period": "19:04 - 20:04",
+  "total_signals": 5,
+  "signals_by_type": {
+    "pattern": 2,
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 5
+  },
+  "signals": [
+    {
+      "ticker": "CVX",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.4%)",
+      "price": 155.315,
+      "change_percent": 0.4050070879507632,
+      "confidence": 0.6,
+      "timestamp": "2025-08-14T20:04:42.294911"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 69.405,
+      "change_percent": 1.4257947806040692,
+      "confidence": 0.3,
+      "timestamp": "2025-08-14T20:01:53.924908",
+      "period_hours": 24
+    },
+    {
+      "ticker": "IBM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 237.115,
+      "change_percent": 1.6172119597127825,
+      "confidence": 0.310099515395583,
+      "timestamp": "2025-08-14T19:50:17.731865",
+      "period_hours": 24
+    },
+    {
+      "ticker": "CVX",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.4%)",
+      "price": 155.31,
+      "change_percent": 0.40393782082645363,
+      "confidence": 0.6,
+      "timestamp": "2025-08-14T19:33:18.671421"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.9%",
+      "price": 203.05,
+      "change_percent": -1.9278959342561561,
+      "confidence": 0.4824041225868798,
+      "timestamp": "2025-08-14T19:20:43.109311",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

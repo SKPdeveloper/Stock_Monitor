@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-11T20:02:54.517647",
+  "period": "19:02 - 20:02",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.0%",
+      "price": 92.08,
+      "change_percent": 2.036562691722931,
+      "confidence": 0.3,
+      "timestamp": "2025-08-11T19:52:31.429466",
+      "period_hours": 24
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 92.08,
+      "change_percent": 1.0182813458614655,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-11T19:52:31.429190",
+      "period_hours": 12
+    },
+    {
+      "ticker": "QCOM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 148.415,
+      "change_percent": 1.498624579511806,
+      "confidence": 0.3561637982766337,
+      "timestamp": "2025-08-11T19:04:13.859625",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

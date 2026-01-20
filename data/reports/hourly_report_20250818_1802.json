@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-18T18:02:25.196256",
+  "period": "17:02 - 18:02",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "CRM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 243.1,
+      "change_percent": 0.8890797819875694,
+      "confidence": 0.6782398920517474,
+      "timestamp": "2025-08-18T17:49:07.667867",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 304.0,
+      "change_percent": 1.0188513564646389,
+      "confidence": 0.5771786287650817,
+      "timestamp": "2025-08-18T17:49:04.398223",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

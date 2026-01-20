@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-08-12T21:04:23.019829",
+  "period": "20:04 - 21:04",
+  "total_signals": 7,
+  "signals_by_type": {
+    "prediction": 6,
+    "pattern": 1
+  },
+  "signals_by_priority": {
+    "info": 7
+  },
+  "signals": [
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.6%",
+      "price": 261.57,
+      "change_percent": -0.5796037718593813,
+      "confidence": 0.5677115438784305,
+      "timestamp": "2025-08-12T20:51:09.651742",
+      "period_hours": 6
+    },
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.2%",
+      "price": 122.42,
+      "change_percent": -1.2358354772271223,
+      "confidence": 0.37245771229077396,
+      "timestamp": "2025-08-12T20:36:21.870995",
+      "period_hours": 12
+    },
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.6%",
+      "price": 122.42,
+      "change_percent": -0.6122939076138552,
+      "confidence": 0.4884804443572571,
+      "timestamp": "2025-08-12T20:16:10.367712",
+      "period_hours": 6
+    },
+    {
+      "ticker": "TMO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 476.92,
+      "change_percent": -1.4134771647683506,
+      "confidence": 0.3,
+      "timestamp": "2025-08-12T20:07:27.634535",
+      "period_hours": 24
+    },
+    {
+      "ticker": "HD",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.4% до 0.9%)",
+      "price": 396.335,
+      "change_percent": 0.8748725332953566,
+      "confidence": 0.6,
+      "timestamp": "2025-08-12T20:07:15.017972"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 203.69,
+      "change_percent": -0.9521141503166601,
+      "confidence": 0.4167892806534028,
+      "timestamp": "2025-08-12T20:07:14.648986",
+      "period_hours": 12
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 2.1%",
+      "price": 260.8694,
+      "change_percent": -2.105836308506944,
+      "confidence": 0.3,
+      "timestamp": "2025-08-12T20:06:02.484479",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

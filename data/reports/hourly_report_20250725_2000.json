@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-07-25T20:00:01.721832",
+  "period": "19:00 - 20:00",
+  "total_signals": 6,
+  "signals_by_type": {
+    "prediction": 5,
+    "pattern": 1
+  },
+  "signals_by_priority": {
+    "info": 6
+  },
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.8%",
+      "price": 173.655,
+      "change_percent": 0.8144049553628436,
+      "confidence": 0.6563791530529186,
+      "timestamp": "2025-07-25T19:59:49.873394",
+      "period_hours": 12
+    },
+    {
+      "ticker": "BAC",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 0.5%)",
+      "price": 48.525,
+      "change_percent": 0.5242822027508476,
+      "confidence": 0.6,
+      "timestamp": "2025-07-25T19:59:30.349735"
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.7%",
+      "price": 812.14,
+      "change_percent": -1.6860913549515328,
+      "confidence": 0.3,
+      "timestamp": "2025-07-25T19:54:42.693210",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.9%",
+      "price": 812.7,
+      "change_percent": -0.8870710827440075,
+      "confidence": 0.5259016242328725,
+      "timestamp": "2025-07-25T19:47:56.535900",
+      "period_hours": 12
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 173.8399,
+      "change_percent": 1.4214091031870228,
+      "confidence": 0.3330341563553787,
+      "timestamp": "2025-07-25T19:25:09.053725",
+      "period_hours": 24
+    },
+    {
+      "ticker": "C",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 95.77,
+      "change_percent": 1.5773049947469666,
+      "confidence": 0.35597392179491805,
+      "timestamp": "2025-07-25T19:18:01.121284",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

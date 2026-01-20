@@ -1,0 +1,187 @@
+{
+  "timestamp": "2025-07-24T22:02:47.784086",
+  "period": "21:02 - 22:02",
+  "total_signals": 17,
+  "signals_by_type": {
+    "pattern": 15,
+    "trend_reversal": 1,
+    "model_consensus": 1
+  },
+  "signals_by_priority": {
+    "info": 15,
+    "important": 2
+  },
+  "signals": [
+    {
+      "ticker": "WMT",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.3%)",
+      "price": 96.6,
+      "change_percent": 0.3241082523187814,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:55:50.842284"
+    },
+    {
+      "ticker": "TXN",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.3% до -4.5%)",
+      "price": 185.69,
+      "change_percent": -4.492467198158537,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:55:47.643932"
+    },
+    {
+      "ticker": "PM",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.2% до -3.7%)",
+      "price": 161.08,
+      "change_percent": -3.656895567184104,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:55:34.326232"
+    },
+    {
+      "ticker": "BAC",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.6%)",
+      "price": 48.39,
+      "change_percent": 0.6348822783441843,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:51:21.306633"
+    },
+    {
+      "ticker": "IBM",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -2.9%)",
+      "price": 260.51,
+      "change_percent": -2.8573350785690343,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:45:57.063106"
+    },
+    {
+      "ticker": "DIS",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.3%)",
+      "price": 121.95,
+      "change_percent": 0.3099123359948367,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:45:55.280822"
+    },
+    {
+      "ticker": "UNH",
+      "type": "trend_reversal",
+      "priority": "important",
+      "message": "📉 Можливий розворот після зростання",
+      "price": 278.58,
+      "change_percent": 0.0,
+      "confidence": 0.7,
+      "timestamp": "2025-07-24T21:36:24.183920"
+    },
+    {
+      "ticker": "ORCL",
+      "type": "model_consensus",
+      "priority": "important",
+      "message": "📈 Всі моделі прогнозують зростання",
+      "price": 242.83,
+      "change_percent": 2.8335187162817674,
+      "confidence": 0.4607685791254207,
+      "timestamp": "2025-07-24T21:36:17.192632"
+    },
+    {
+      "ticker": "MDT",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 1.0%)",
+      "price": 92.32,
+      "change_percent": 0.9678772113867214,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:36:13.929414"
+    },
+    {
+      "ticker": "AMZN",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.4%)",
+      "price": 232.23,
+      "change_percent": 0.42942698811060015,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:36:03.952455"
+    },
+    {
+      "ticker": "WMT",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.3%)",
+      "price": 96.6,
+      "change_percent": 0.3241082523187814,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:21:14.382531"
+    },
+    {
+      "ticker": "TXN",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.3% до -4.5%)",
+      "price": 185.69,
+      "change_percent": -4.492467198158537,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:21:10.695411"
+    },
+    {
+      "ticker": "PM",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.2% до -3.7%)",
+      "price": 161.08,
+      "change_percent": -3.656895567184104,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:21:07.958457"
+    },
+    {
+      "ticker": "BAC",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.6%)",
+      "price": 48.39,
+      "change_percent": 0.6348822783441843,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:20:23.781902"
+    },
+    {
+      "ticker": "IBM",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -2.9%)",
+      "price": 260.51,
+      "change_percent": -2.8573350785690343,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:11:17.401625"
+    },
+    {
+      "ticker": "DIS",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.3%)",
+      "price": 121.95,
+      "change_percent": 0.3099123359948367,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:11:15.593884"
+    },
+    {
+      "ticker": "MDT",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 1.0%)",
+      "price": 92.32,
+      "change_percent": 0.9678772113867214,
+      "confidence": 0.6,
+      "timestamp": "2025-07-24T21:05:42.929875"
+    }
+  ],
+  "predictions_verification": []
+}

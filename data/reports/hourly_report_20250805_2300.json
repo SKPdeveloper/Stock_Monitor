@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-05T23:00:39.360985",
+  "period": "22:00 - 23:00",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 292.93,
+      "change_percent": 1.5030132751269094,
+      "confidence": 0.3199631157465641,
+      "timestamp": "2025-08-05T22:17:05.484213",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 74.38,
+      "change_percent": 1.7817268443764824,
+      "confidence": 0.3,
+      "timestamp": "2025-08-05T22:07:00.431331",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

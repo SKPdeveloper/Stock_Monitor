@@ -1,0 +1,79 @@
+{
+  "timestamp": "2025-08-12T18:00:14.220923",
+  "period": "17:00 - 18:00",
+  "total_signals": 6,
+  "signals_by_type": {
+    "prediction": 4,
+    "pattern": 2
+  },
+  "signals_by_priority": {
+    "info": 6
+  },
+  "signals": [
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 260.2812,
+      "change_percent": -0.9626180971127629,
+      "confidence": 0.4720336232222404,
+      "timestamp": "2025-08-12T17:35:36.707526",
+      "period_hours": 12
+    },
+    {
+      "ticker": "COST",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.4%)",
+      "price": 989.24,
+      "change_percent": 0.40091963103351763,
+      "confidence": 0.6,
+      "timestamp": "2025-08-12T17:28:04.691792"
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 74.755,
+      "change_percent": 1.368072092259476,
+      "confidence": 0.3,
+      "timestamp": "2025-08-12T17:21:04.432533",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LLY",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.2%)",
+      "price": 644.225,
+      "change_percent": 0.19128500645589908,
+      "confidence": 0.6,
+      "timestamp": "2025-08-12T17:09:23.383193"
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 644.15,
+      "change_percent": 1.0210881180007991,
+      "confidence": 0.4382478955287932,
+      "timestamp": "2025-08-12T17:07:47.238428",
+      "period_hours": 12
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 259.32,
+      "change_percent": -1.5294217818383782,
+      "confidence": 0.3,
+      "timestamp": "2025-08-12T17:04:47.434300",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

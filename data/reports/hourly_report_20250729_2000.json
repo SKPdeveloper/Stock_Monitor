@@ -1,0 +1,239 @@
+{
+  "timestamp": "2025-07-29T20:00:02.087282",
+  "period": "19:00 - 20:00",
+  "total_signals": 22,
+  "signals_by_type": {
+    "price_change": 17,
+    "prediction": 2,
+    "pattern": 3
+  },
+  "signals_by_priority": {
+    "important": 3,
+    "info": 19
+  },
+  "signals": [
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.12%",
+      "price": 221.26,
+      "change_percent": -1.1172685019663926,
+      "confidence": 0.9155285438484719,
+      "timestamp": "2025-07-29T19:59:59.823730"
+    },
+    {
+      "ticker": "QCOM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.65%",
+      "price": 163.09,
+      "change_percent": 0.6541998395358898,
+      "confidence": 0.6725832675182619,
+      "timestamp": "2025-07-29T19:59:55.902954"
+    },
+    {
+      "ticker": "PG",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.57%",
+      "price": 155.79,
+      "change_percent": -0.5680367628287049,
+      "confidence": 0.636681985722401,
+      "timestamp": "2025-07-29T19:59:54.691070"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.54%",
+      "price": 767.61,
+      "change_percent": 0.544894885061231,
+      "confidence": 0.6770395360081172,
+      "timestamp": "2025-07-29T19:59:48.937759"
+    },
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.10%",
+      "price": 223.76,
+      "change_percent": 1.1024760527742625,
+      "confidence": 0.9093650233337122,
+      "timestamp": "2025-07-29T19:59:40.288734"
+    },
+    {
+      "ticker": "QCOM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.65%",
+      "price": 162.03,
+      "change_percent": -0.6499478815378026,
+      "confidence": 0.6708116183456004,
+      "timestamp": "2025-07-29T19:59:28.769865"
+    },
+    {
+      "ticker": "PG",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.60%",
+      "price": 156.68,
+      "change_percent": 0.5971107544141296,
+      "confidence": 0.548796148944949,
+      "timestamp": "2025-07-29T19:59:24.010255"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.54%",
+      "price": 763.45,
+      "change_percent": -0.5406461698801429,
+      "confidence": 0.6752692380115843,
+      "timestamp": "2025-07-29T19:59:05.189212"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.98%",
+      "price": 72.075,
+      "change_percent": 0.9807355516637518,
+      "confidence": 0.8086398139923484,
+      "timestamp": "2025-07-29T19:48:38.973089"
+    },
+    {
+      "ticker": "DHR",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.52%",
+      "price": 206.48,
+      "change_percent": 0.5160159672865361,
+      "confidence": 0.6150066536034562,
+      "timestamp": "2025-07-29T19:48:28.567573"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.07%",
+      "price": 71.375,
+      "change_percent": -1.0722314778110758,
+      "confidence": 0.8467631166334203,
+      "timestamp": "2025-07-29T19:47:57.777631"
+    },
+    {
+      "ticker": "DHR",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.48%",
+      "price": 205.42,
+      "change_percent": -0.4844491812808837,
+      "confidence": 0.6018538260667358,
+      "timestamp": "2025-07-29T19:47:14.629604"
+    },
+    {
+      "ticker": "PFE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.9%",
+      "price": 24.285,
+      "change_percent": 0.9206873418066468,
+      "confidence": 0.4794164557844325,
+      "timestamp": "2025-07-29T19:47:14.440926",
+      "period_hours": 12
+    },
+    {
+      "ticker": "TSLA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.54%",
+      "price": 323.115,
+      "change_percent": 0.5351670063317809,
+      "confidence": 0.5229862529498093,
+      "timestamp": "2025-07-29T19:37:33.977235"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.70%",
+      "price": 321.395,
+      "change_percent": -0.6998084409565727,
+      "confidence": 0.5915868508062235,
+      "timestamp": "2025-07-29T19:36:32.206972"
+    },
+    {
+      "ticker": "UPS",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.93%",
+      "price": 92.2404,
+      "change_percent": 0.9297444926015432,
+      "confidence": 0.8373935393253092,
+      "timestamp": "2025-07-29T19:26:27.034856"
+    },
+    {
+      "ticker": "UPS",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.85%",
+      "price": 91.3907,
+      "change_percent": -0.8455028751220639,
+      "confidence": 0.8022928653052044,
+      "timestamp": "2025-07-29T19:25:10.968219"
+    },
+    {
+      "ticker": "TMO",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.52%",
+      "price": 482.81,
+      "change_percent": -0.5182094472775947,
+      "confidence": 0.6159206034004098,
+      "timestamp": "2025-07-29T19:25:02.696233"
+    },
+    {
+      "ticker": "PFE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 24.28,
+      "change_percent": 1.67211557812909,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T19:23:34.249498",
+      "period_hours": 24
+    },
+    {
+      "ticker": "META",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.2% до -0.4%)",
+      "price": 707.75,
+      "change_percent": -0.35412922205699804,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T19:13:12.649208"
+    },
+    {
+      "ticker": "META",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.2% до -0.3%)",
+      "price": 707.4401,
+      "change_percent": -0.34065431158781434,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T19:12:24.746816"
+    },
+    {
+      "ticker": "QCOM",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.5% до 1.0%)",
+      "price": 163.5528,
+      "change_percent": 0.9833410081734328,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T19:07:56.938451"
+    }
+  ],
+  "predictions_verification": []
+}

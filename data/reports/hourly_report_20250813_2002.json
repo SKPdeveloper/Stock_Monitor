@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-08-13T20:02:34.079672",
+  "period": "19:02 - 20:02",
+  "total_signals": 5,
+  "signals_by_type": {
+    "pattern": 3,
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 5
+  },
+  "signals": [
+    {
+      "ticker": "NFLX",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.1% до -0.2%)",
+      "price": 1204.9,
+      "change_percent": -0.18023192067448218,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T19:58:02.682543"
+    },
+    {
+      "ticker": "K",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.0% до 0.1%)",
+      "price": 80.195,
+      "change_percent": 0.0520180561570216,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T19:55:06.912329"
+    },
+    {
+      "ticker": "WFC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.6%",
+      "price": 77.935,
+      "change_percent": -1.5558345960585616,
+      "confidence": 0.3,
+      "timestamp": "2025-08-13T19:41:05.688285",
+      "period_hours": 24
+    },
+    {
+      "ticker": "HD",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.8% до 1.6%)",
+      "price": 406.605,
+      "change_percent": 1.5937204735055777,
+      "confidence": 0.6,
+      "timestamp": "2025-08-13T19:35:08.690789"
+    },
+    {
+      "ticker": "LLY",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.0%",
+      "price": 659.24,
+      "change_percent": 2.0031111609790644,
+      "confidence": 0.3,
+      "timestamp": "2025-08-13T19:06:24.493878",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

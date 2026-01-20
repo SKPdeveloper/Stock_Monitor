@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-13T18:03:08.327287",
+  "period": "17:03 - 18:03",
+  "total_signals": 3,
+  "signals_by_type": {
+    "prediction": 3
+  },
+  "signals_by_priority": {
+    "info": 3
+  },
+  "signals": [
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.2%",
+      "price": 305.7799,
+      "change_percent": 1.1667917368819436,
+      "confidence": 0.5607939321355235,
+      "timestamp": "2025-08-13T17:51:14.294478",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 304.955,
+      "change_percent": 0.5841183740538567,
+      "confidence": 0.6872619457708614,
+      "timestamp": "2025-08-13T17:14:24.368875",
+      "period_hours": 6
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.8%",
+      "price": 270.6,
+      "change_percent": -1.8043499903232583,
+      "confidence": 0.3,
+      "timestamp": "2025-08-13T17:13:18.467823",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

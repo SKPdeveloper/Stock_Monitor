@@ -1,0 +1,147 @@
+{
+  "timestamp": "2025-08-08T20:00:05.761564",
+  "period": "19:00 - 20:00",
+  "total_signals": 12,
+  "signals_by_type": {
+    "prediction": 12
+  },
+  "signals_by_priority": {
+    "info": 11,
+    "critical": 1
+  },
+  "signals": [
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 15.4776,
+      "change_percent": 1.0058524095569292,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-08T19:55:36.792712",
+      "period_hours": 12
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "critical",
+      "message": "🔮 Очікується зростання на 16.6%",
+      "price": 15.52,
+      "change_percent": 16.619679286996075,
+      "confidence": 0.2,
+      "timestamp": "2025-08-08T19:54:11.421421",
+      "period_hours": 720
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 3.9%",
+      "price": 15.52,
+      "change_percent": 3.877925166965751,
+      "confidence": 0.45145047493802937,
+      "timestamp": "2025-08-08T19:54:11.421316",
+      "period_hours": 168
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 15.52,
+      "change_percent": 1.5718753929056517,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T19:54:11.421149",
+      "period_hours": 24
+    },
+    {
+      "ticker": "UNP",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 222.625,
+      "change_percent": 1.5249764764392133,
+      "confidence": 0.3074218448399495,
+      "timestamp": "2025-08-08T19:52:55.610694",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.8%",
+      "price": 74.115,
+      "change_percent": 1.8171005832875915,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T19:51:24.475345",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 2.4%",
+      "price": 304.28,
+      "change_percent": 2.3508248662003965,
+      "confidence": 0.3,
+      "timestamp": "2025-08-08T19:51:10.594399",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.2%",
+      "price": 304.28,
+      "change_percent": 1.1754124331001983,
+      "confidence": 0.46352987237019994,
+      "timestamp": "2025-08-08T19:51:10.594257",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 304.28,
+      "change_percent": 0.5877062165500991,
+      "confidence": 0.5835298723701999,
+      "timestamp": "2025-08-08T19:51:10.594132",
+      "period_hours": 6
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 249.355,
+      "change_percent": -0.9970853620400815,
+      "confidence": 0.4924075576969087,
+      "timestamp": "2025-08-08T19:27:20.492200",
+      "period_hours": 12
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.0%",
+      "price": 74.18,
+      "change_percent": 1.045513611243203,
+      "confidence": 0.3600000000000001,
+      "timestamp": "2025-08-08T19:24:25.066156",
+      "period_hours": 12
+    },
+    {
+      "ticker": "ACN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 239.285,
+      "change_percent": -1.4526882228616056,
+      "confidence": 0.5,
+      "timestamp": "2025-08-08T19:21:19.302648",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

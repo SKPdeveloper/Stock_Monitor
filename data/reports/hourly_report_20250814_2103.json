@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-14T21:03:12.364884",
+  "period": "20:03 - 21:03",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 3,
+    "pattern": 1
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.1%",
+      "price": 203.06,
+      "change_percent": -1.0818590615224681,
+      "confidence": 0.74,
+      "timestamp": "2025-08-14T20:09:11.718080",
+      "period_hours": 12
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.5%",
+      "price": 203.06,
+      "change_percent": -0.5409295307612341,
+      "confidence": 0.86,
+      "timestamp": "2025-08-14T20:09:11.717988",
+      "period_hours": 6
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.3%",
+      "price": 203.06,
+      "change_percent": -0.27046476538061703,
+      "confidence": 0.9199999999999999,
+      "timestamp": "2025-08-14T20:09:11.717886",
+      "period_hours": 3
+    },
+    {
+      "ticker": "CVX",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.4%)",
+      "price": 155.315,
+      "change_percent": 0.4050070879507632,
+      "confidence": 0.6,
+      "timestamp": "2025-08-14T20:04:42.294911"
+    }
+  ],
+  "predictions_verification": []
+}

@@ -1,0 +1,59 @@
+{
+  "blocked_symbols": [],
+  "trading_hours": {
+    "enabled": false,
+    "allowed_hours": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "description": "Торговля разрешена 24/7"
+  },
+  "confidence_threshold": {
+    "old_value": 0.6,
+    "new_value": 0.75,
+    "description": "ПІДВИЩЕНО: Мінімум 75% впевненості для фільтрації сміття"
+  },
+  "position_sizing": {
+    "new_symbols_reduction": 0.5,
+    "max_position_per_symbol": 100,
+    "description": "Стандартная позиционность"
+  },
+  "additional_filters": {
+    "min_volume_24h": 100000000,
+    "max_spread_percent": 0.1,
+    "min_trades_history": 5,
+    "min_profit_percent": 2.0,
+    "min_confidence_for_trade": 0.75,
+    "description": "ЖОРСТКІ фільтри для якісних угод"
+  },
+  "risk_management": {
+    "max_daily_loss": -50,
+    "pause_after_losses": 3,
+    "cooldown_minutes": 30,
+    "description": "Стандартный риск-менеджмент"
+  },
+  "applied_at": "2025-08-27T16:28:12.388626",
+  "reason": "Дефолтная конфигурация фильтров"
+}

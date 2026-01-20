@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-07-31T19:04:26.580183",
+  "period": "18:04 - 19:04",
+  "total_signals": 6,
+  "signals_by_type": {
+    "prediction": 3,
+    "pattern": 3
+  },
+  "signals_by_priority": {
+    "info": 6
+  },
+  "signals": [
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 90.81,
+      "change_percent": 1.395889908576749,
+      "confidence": 0.3,
+      "timestamp": "2025-07-31T18:46:48.972129",
+      "period_hours": 24
+    },
+    {
+      "ticker": "IBM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 255.32,
+      "change_percent": 1.433768166118234,
+      "confidence": 0.3580322581786497,
+      "timestamp": "2025-07-31T18:30:46.606166",
+      "period_hours": 24
+    },
+    {
+      "ticker": "TSLA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.8% до -1.9%)",
+      "price": 307.3001,
+      "change_percent": -1.900185913147608,
+      "confidence": 0.6,
+      "timestamp": "2025-07-31T18:22:18.694368"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.8% до -1.8%)",
+      "price": 308.7288,
+      "change_percent": -1.7509151842943844,
+      "confidence": 0.6,
+      "timestamp": "2025-07-31T18:09:09.669624"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.8% до -1.6%)",
+      "price": 309.7,
+      "change_percent": -1.6494441043879982,
+      "confidence": 0.6,
+      "timestamp": "2025-07-31T18:07:29.646311"
+    },
+    {
+      "ticker": "UPS",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 86.225,
+      "change_percent": 1.4145237639570896,
+      "confidence": 0.3,
+      "timestamp": "2025-07-31T18:06:04.904598",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

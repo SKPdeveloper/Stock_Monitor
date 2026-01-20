@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-08-08T19:04:14.859936",
+  "period": "18:04 - 19:04",
+  "total_signals": 1,
+  "signals_by_type": {
+    "prediction": 1
+  },
+  "signals_by_priority": {
+    "info": 1
+  },
+  "signals": [
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 303.84,
+      "change_percent": 0.5593683938781207,
+      "confidence": 0.6524351550174906,
+      "timestamp": "2025-08-08T18:20:56.385061",
+      "period_hours": 6
+    }
+  ],
+  "predictions_verification": []
+}

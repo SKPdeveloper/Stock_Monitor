@@ -1,0 +1,781 @@
+{
+  "timestamp": "2025-07-29T15:00:53.978535",
+  "period": "14:00 - 15:00",
+  "total_signals": 76,
+  "signals_by_type": {
+    "price_change": 63,
+    "prediction": 4,
+    "pattern": 9
+  },
+  "signals_by_priority": {
+    "info": 68,
+    "important": 8
+  },
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.45%",
+      "price": 178.24,
+      "change_percent": 0.44519582981122596,
+      "confidence": 0.7709965259618157,
+      "timestamp": "2025-07-29T15:00:45.961350"
+    },
+    {
+      "ticker": "AVGO",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.48%",
+      "price": 299.82,
+      "change_percent": 0.4826060727930819,
+      "confidence": 0.8521717284417923,
+      "timestamp": "2025-07-29T15:00:32.987064"
+    },
+    {
+      "ticker": "NVDA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.58%",
+      "price": 177.45,
+      "change_percent": -0.5798806622405384,
+      "confidence": 0.883233886658145,
+      "timestamp": "2025-07-29T15:00:08.702862"
+    },
+    {
+      "ticker": "NKE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.35%",
+      "price": 78.8,
+      "change_percent": -0.3540718259989898,
+      "confidence": 0.6950598557375823,
+      "timestamp": "2025-07-29T15:00:07.060585"
+    },
+    {
+      "ticker": "AVGO",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.63%",
+      "price": 298.38,
+      "change_percent": -0.6310881691782473,
+      "confidence": 0.7155440854600598,
+      "timestamp": "2025-07-29T14:59:18.398615"
+    },
+    {
+      "ticker": "PM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.7%",
+      "price": 159.55,
+      "change_percent": -1.7139710202402154,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T14:52:11.391880",
+      "period_hours": 24
+    },
+    {
+      "ticker": "PM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.68%",
+      "price": 159.095,
+      "change_percent": -0.6773629666625096,
+      "confidence": 0.6386814840743903,
+      "timestamp": "2025-07-29T14:50:44.631156"
+    },
+    {
+      "ticker": "C",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.50%",
+      "price": 95.65,
+      "change_percent": 0.504360617841761,
+      "confidence": 0.6521803097415977,
+      "timestamp": "2025-07-29T14:48:21.438151"
+    },
+    {
+      "ticker": "C",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.51%",
+      "price": 95.17,
+      "change_percent": -0.5122308174785646,
+      "confidence": 0.6561154095726112,
+      "timestamp": "2025-07-29T14:47:47.557820"
+    },
+    {
+      "ticker": "BRK.B",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.50%",
+      "price": 481.5268,
+      "change_percent": -0.49660074804207766,
+      "confidence": 0.6483003755856244,
+      "timestamp": "2025-07-29T14:47:45.771589"
+    },
+    {
+      "ticker": "WFC",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.51%",
+      "price": 83.145,
+      "change_percent": 0.5077062556663666,
+      "confidence": 0.6538531285743939,
+      "timestamp": "2025-07-29T14:37:40.404407"
+    },
+    {
+      "ticker": "WFC",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.55%",
+      "price": 82.725,
+      "change_percent": -0.5529843120755039,
+      "confidence": 0.6764921568450649,
+      "timestamp": "2025-07-29T14:37:25.641483"
+    },
+    {
+      "ticker": "UPS",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 92.58,
+      "change_percent": 1.360596390836149,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T14:36:11.935659",
+      "period_hours": 24
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.45%",
+      "price": 93.098,
+      "change_percent": 0.4510142425550196,
+      "confidence": 0.5255071219614884,
+      "timestamp": "2025-07-29T14:26:11.093206"
+    },
+    {
+      "ticker": "CRM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.42%",
+      "price": 271.565,
+      "change_percent": 0.4234154278529627,
+      "confidence": 0.6617077148879074,
+      "timestamp": "2025-07-29T14:25:58.643609"
+    },
+    {
+      "ticker": "CRM",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.48%",
+      "price": 270.42,
+      "change_percent": -0.47660232228620397,
+      "confidence": 0.6383011622239225,
+      "timestamp": "2025-07-29T14:24:50.479062"
+    },
+    {
+      "ticker": "ADBE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.53%",
+      "price": 370.21,
+      "change_percent": -0.5293137729055907,
+      "confidence": 0.5646568874600664,
+      "timestamp": "2025-07-29T14:24:31.890802"
+    },
+    {
+      "ticker": "UNH",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -1.0%)",
+      "price": 269.96,
+      "change_percent": -1.0142833037756573,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:17:40.259396"
+    },
+    {
+      "ticker": "UNH",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -1.1%)",
+      "price": 269.34,
+      "change_percent": -1.087538183495873,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:16:15.052364"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.10%",
+      "price": 72.8,
+      "change_percent": 1.1040899937504365,
+      "confidence": 0.8520449980188178,
+      "timestamp": "2025-07-29T14:14:47.156770"
+    },
+    {
+      "ticker": "LOW",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.51%",
+      "price": 229.21,
+      "change_percent": -0.5143340784305225,
+      "confidence": 0.6571670400766881,
+      "timestamp": "2025-07-29T14:14:40.136510"
+    },
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.41%",
+      "price": 225.13,
+      "change_percent": 0.40809044889949025,
+      "confidence": 0.5040452250824887,
+      "timestamp": "2025-07-29T14:14:17.220107"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.48%",
+      "price": 93.06,
+      "change_percent": -0.48123195380173545,
+      "confidence": 0.5406159776332797,
+      "timestamp": "2025-07-29T14:14:07.548325"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.21%",
+      "price": 72.005,
+      "change_percent": -1.2141583207573126,
+      "confidence": 0.9,
+      "timestamp": "2025-07-29T14:14:04.536025"
+    },
+    {
+      "ticker": "LOW",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.55%",
+      "price": 230.395,
+      "change_percent": 0.5477000960111827,
+      "confidence": 0.6738500489225536,
+      "timestamp": "2025-07-29T14:13:44.402966"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.41%",
+      "price": 769.99,
+      "change_percent": 0.41405032504580036,
+      "confidence": 0.607025163035659,
+      "timestamp": "2025-07-29T14:13:42.844531"
+    },
+    {
+      "ticker": "HD",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.62%",
+      "price": 378.57,
+      "change_percent": 0.6166112956810613,
+      "confidence": 0.7083056491861907,
+      "timestamp": "2025-07-29T14:13:32.125137"
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.46%",
+      "price": 193.405731,
+      "change_percent": 0.46007220029087503,
+      "confidence": 0.5300361013138021,
+      "timestamp": "2025-07-29T14:13:30.597215"
+    },
+    {
+      "ticker": "UNH",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -1.2%)",
+      "price": 268.12,
+      "change_percent": -1.2316848823001623,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:13:22.302147"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.47%",
+      "price": 268.12,
+      "change_percent": 0.4712917485909399,
+      "confidence": 0.5356458747548402,
+      "timestamp": "2025-07-29T14:13:22.300267"
+    },
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.53%",
+      "price": 226.21,
+      "change_percent": -0.5254941623974816,
+      "confidence": 0.5627470820464536,
+      "timestamp": "2025-07-29T14:09:08.843393"
+    },
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 1.3%)",
+      "price": 252.56,
+      "change_percent": 1.319202194616246,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:09:03.375682"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.41%",
+      "price": 266.42,
+      "change_percent": -0.412077642844109,
+      "confidence": 0.5060388218152219,
+      "timestamp": "2025-07-29T14:07:42.396726"
+    },
+    {
+      "ticker": "UNH",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -1.3%)",
+      "price": 267.5224,
+      "change_percent": -1.3022931341079014,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:06:17.289215"
+    },
+    {
+      "ticker": "WMT",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.5%)",
+      "price": 97.955,
+      "change_percent": 0.46590081644846126,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:04:38.422655"
+    },
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.7%",
+      "price": 190.1,
+      "change_percent": -1.6872264684525835,
+      "confidence": 0.3,
+      "timestamp": "2025-07-29T14:04:35.069815",
+      "period_hours": 24
+    },
+    {
+      "ticker": "ORCL",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.3% до 1.2%)",
+      "price": 251.61,
+      "change_percent": 1.1913645349873825,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:04:30.621377"
+    },
+    {
+      "ticker": "INTC",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.54%",
+      "price": 20.565,
+      "change_percent": 0.5377658274260719,
+      "confidence": 0.6688829141454322,
+      "timestamp": "2025-07-29T14:04:24.702479"
+    },
+    {
+      "ticker": "UPS",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.54%",
+      "price": 93.61,
+      "change_percent": 0.5423983674346119,
+      "confidence": 0.6711991842866784,
+      "timestamp": "2025-07-29T14:02:59.020060"
+    },
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 2.72%",
+      "price": 229.68,
+      "change_percent": 2.721438314810263,
+      "confidence": 0.98,
+      "timestamp": "2025-07-29T14:02:57.849991"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 1.09%",
+      "price": 267.02,
+      "change_percent": -1.089050229663653,
+      "confidence": 0.8445251158789739,
+      "timestamp": "2025-07-29T14:02:57.451660"
+    },
+    {
+      "ticker": "TXN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.59%",
+      "price": 189.63,
+      "change_percent": -0.5923673726148015,
+      "confidence": 0.5961836867670863,
+      "timestamp": "2025-07-29T14:02:57.029046"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.59%",
+      "price": 72.97,
+      "change_percent": 0.5927763992280018,
+      "confidence": 0.5963882002362944,
+      "timestamp": "2025-07-29T14:02:53.828158"
+    },
+    {
+      "ticker": "ORCL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.64%",
+      "price": 251.125,
+      "change_percent": -0.6448932760974048,
+      "confidence": 0.7224466388767453,
+      "timestamp": "2025-07-29T14:02:52.246027"
+    },
+    {
+      "ticker": "UPS",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.60%",
+      "price": 93.105,
+      "change_percent": -0.6031813814454977,
+      "confidence": 0.7015906913559271,
+      "timestamp": "2025-07-29T14:02:50.009036"
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.53%",
+      "price": 765.5,
+      "change_percent": -0.5295130429133021,
+      "confidence": 0.6647565221054482,
+      "timestamp": "2025-07-29T14:02:47.716243"
+    },
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📉 Ціна падіння на 2.71%",
+      "price": 223.595,
+      "change_percent": -2.7128747334986785,
+      "confidence": 0.9,
+      "timestamp": "2025-07-29T14:02:47.689451"
+    },
+    {
+      "ticker": "UNH",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.15%",
+      "price": 269.96,
+      "change_percent": 1.146496815286625,
+      "confidence": 0.8732484087456962,
+      "timestamp": "2025-07-29T14:02:46.167878"
+    },
+    {
+      "ticker": "HON",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.47%",
+      "price": 225.12,
+      "change_percent": 0.4686035613870716,
+      "confidence": 0.634301781406529,
+      "timestamp": "2025-07-29T14:02:45.188218"
+    },
+    {
+      "ticker": "TXN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.60%",
+      "price": 190.76,
+      "change_percent": 0.595897273638135,
+      "confidence": 0.5979486372814924,
+      "timestamp": "2025-07-29T14:02:44.615139"
+    },
+    {
+      "ticker": "DHR",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.75%",
+      "price": 204.02,
+      "change_percent": -0.7467587750237146,
+      "confidence": 0.7733793885139012,
+      "timestamp": "2025-07-29T14:02:43.249268"
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.63%",
+      "price": 33.565,
+      "change_percent": 0.6295907660021013,
+      "confidence": 0.7147953839501493,
+      "timestamp": "2025-07-29T14:02:41.329963"
+    },
+    {
+      "ticker": "TMO",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.62%",
+      "price": 484.28,
+      "change_percent": 0.6181111769044506,
+      "confidence": 0.7090555889753926,
+      "timestamp": "2025-07-29T14:02:40.617776"
+    },
+    {
+      "ticker": "BABA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.64%",
+      "price": 122.415,
+      "change_percent": 0.6371259454126978,
+      "confidence": 0.7185629733334673,
+      "timestamp": "2025-07-29T14:02:39.402533"
+    },
+    {
+      "ticker": "AMGN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.51%",
+      "price": 300.02,
+      "change_percent": -0.5106778087279548,
+      "confidence": 0.6553389051255131,
+      "timestamp": "2025-07-29T14:02:37.813489"
+    },
+    {
+      "ticker": "ABBV",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.84%",
+      "price": 188.56,
+      "change_percent": -0.8361819616092576,
+      "confidence": 0.7180909822355356,
+      "timestamp": "2025-07-29T14:02:36.643153"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 72.54,
+      "change_percent": 1.4115196629324915,
+      "confidence": 0.45812608661969234,
+      "timestamp": "2025-07-29T14:02:34.392017",
+      "period_hours": 24
+    },
+    {
+      "ticker": "PG",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.75%",
+      "price": 156.715,
+      "change_percent": 0.748955319832846,
+      "confidence": 0.6744776618246079,
+      "timestamp": "2025-07-29T14:02:31.451075"
+    },
+    {
+      "ticker": "ORCL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.79%",
+      "price": 252.755,
+      "change_percent": 0.787542866257275,
+      "confidence": 0.8437714341398425,
+      "timestamp": "2025-07-29T14:02:28.466579"
+    },
+    {
+      "ticker": "NKE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.49%",
+      "price": 78.535,
+      "change_percent": 0.4894277214420436,
+      "confidence": 0.5447138613210845,
+      "timestamp": "2025-07-29T14:02:25.521508"
+    },
+    {
+      "ticker": "NFLX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.55%",
+      "price": 1165.0,
+      "change_percent": -0.5539953392687952,
+      "confidence": 0.7269976703793238,
+      "timestamp": "2025-07-29T14:02:24.013017"
+    },
+    {
+      "ticker": "NEE",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.40%",
+      "price": 72.0,
+      "change_percent": 0.404406637846892,
+      "confidence": 0.5022033193920823,
+      "timestamp": "2025-07-29T14:02:22.540717"
+    },
+    {
+      "ticker": "HON",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.45%",
+      "price": 224.07,
+      "change_percent": -0.4531520725043361,
+      "confidence": 0.6265760369416514,
+      "timestamp": "2025-07-29T14:02:03.401148"
+    },
+    {
+      "ticker": "CMCSA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.68%",
+      "price": 33.355,
+      "change_percent": -0.6848295369956945,
+      "confidence": 0.742414769529716,
+      "timestamp": "2025-07-29T14:01:47.200732"
+    },
+    {
+      "ticker": "BMY",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.00%",
+      "price": 46.875,
+      "change_percent": 1.0019392372333622,
+      "confidence": 0.9009696199678978,
+      "timestamp": "2025-07-29T14:01:42.625268"
+    },
+    {
+      "ticker": "BABA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.51%",
+      "price": 121.64,
+      "change_percent": -0.5071973603816728,
+      "confidence": 0.6535986806899349,
+      "timestamp": "2025-07-29T14:01:39.694083"
+    },
+    {
+      "ticker": "AMGN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.56%",
+      "price": 301.56,
+      "change_percent": 0.5602240896358566,
+      "confidence": 0.5801120456527554,
+      "timestamp": "2025-07-29T14:01:33.690569"
+    },
+    {
+      "ticker": "WMT",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.1% до 0.4%)",
+      "price": 97.82,
+      "change_percent": 0.41979898261996035,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:01:29.459343"
+    },
+    {
+      "ticker": "ABBV",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.90%",
+      "price": 190.15,
+      "change_percent": 0.9020960466967456,
+      "confidence": 0.7510480248920528,
+      "timestamp": "2025-07-29T14:01:29.219518"
+    },
+    {
+      "ticker": "UNP",
+      "type": "price_change",
+      "priority": "important",
+      "message": "📈 Ціна зростання на 1.03%",
+      "price": 229.83,
+      "change_percent": 1.0263961845315317,
+      "confidence": 0.9131980939508394,
+      "timestamp": "2025-07-29T14:01:26.235636"
+    },
+    {
+      "ticker": "UNH",
+      "type": "pattern",
+      "priority": "info",
+      "message": "⬇️ Темп падіння прискорюється (з -0.4% до -1.4%)",
+      "price": 266.9,
+      "change_percent": -1.375831581104455,
+      "confidence": 0.6,
+      "timestamp": "2025-07-29T14:01:25.811868"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.40%",
+      "price": 321.06,
+      "change_percent": 0.40027518919257915,
+      "confidence": 0.5001375948750599,
+      "timestamp": "2025-07-29T14:01:23.960946"
+    },
+    {
+      "ticker": "PYPL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.75%",
+      "price": 72.6658,
+      "change_percent": -0.753643932606368,
+      "confidence": 0.6768219670755377,
+      "timestamp": "2025-07-29T14:01:21.047214"
+    },
+    {
+      "ticker": "PG",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.48%",
+      "price": 155.55,
+      "change_percent": -0.47984644913627633,
+      "confidence": 0.6399232257869271,
+      "timestamp": "2025-07-29T14:01:20.309165"
+    },
+    {
+      "ticker": "BMY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.47%",
+      "price": 46.41,
+      "change_percent": -0.4717992708556851,
+      "confidence": 0.6858996360641118,
+      "timestamp": "2025-07-29T14:01:07.087710"
+    },
+    {
+      "ticker": "AAPL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.43%",
+      "price": 213.89,
+      "change_percent": 0.4284490145672638,
+      "confidence": 0.6142245085711941,
+      "timestamp": "2025-07-29T14:01:01.413615"
+    }
+  ],
+  "predictions_verification": []
+}

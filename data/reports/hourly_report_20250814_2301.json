@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-08-14T23:01:03.365700",
+  "period": "22:01 - 23:01",
+  "total_signals": 4,
+  "signals_by_type": {
+    "prediction": 4
+  },
+  "signals_by_priority": {
+    "info": 4
+  },
+  "signals": [
+    {
+      "ticker": "IBM",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 237.11,
+      "change_percent": 1.3658773644702962,
+      "confidence": 0.3,
+      "timestamp": "2025-08-14T22:50:23.679720",
+      "period_hours": 24
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.3%",
+      "price": 202.94,
+      "change_percent": -0.3049778373053788,
+      "confidence": 0.9199999999999999,
+      "timestamp": "2025-08-14T22:11:34.149408",
+      "period_hours": 3
+    },
+    {
+      "ticker": "GOOGL",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.2%",
+      "price": 202.94,
+      "change_percent": -1.2199113492215152,
+      "confidence": 0.74,
+      "timestamp": "2025-08-14T22:10:08.492306",
+      "period_hours": 12
+    },
+    {
+      "ticker": "ACN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.9%",
+      "price": 246.16,
+      "change_percent": -1.9031319525376322,
+      "confidence": 0.3,
+      "timestamp": "2025-08-14T22:03:52.127017",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

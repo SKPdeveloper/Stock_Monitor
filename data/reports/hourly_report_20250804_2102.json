@@ -1,0 +1,80 @@
+{
+  "timestamp": "2025-08-04T21:02:00.769134",
+  "period": "20:02 - 21:02",
+  "total_signals": 6,
+  "signals_by_type": {
+    "prediction": 6
+  },
+  "signals_by_priority": {
+    "info": 6
+  },
+  "signals": [
+    {
+      "ticker": "TXN",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 182.73,
+      "change_percent": 0.6408700883333273,
+      "confidence": 0.4800000000000001,
+      "timestamp": "2025-08-04T20:57:40.224749",
+      "period_hours": 6
+    },
+    {
+      "ticker": "WFC",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.5%",
+      "price": 77.58,
+      "change_percent": -1.462625986777586,
+      "confidence": 0.3,
+      "timestamp": "2025-08-04T20:17:14.596331",
+      "period_hours": 24
+    },
+    {
+      "ticker": "NKE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.7%",
+      "price": 74.82,
+      "change_percent": 1.7047499434088131,
+      "confidence": 0.3,
+      "timestamp": "2025-08-04T20:17:08.061802",
+      "period_hours": 24
+    },
+    {
+      "ticker": "MARA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 16.05,
+      "change_percent": -1.4408714175268682,
+      "confidence": 0.3,
+      "timestamp": "2025-08-04T20:10:17.755523",
+      "period_hours": 24
+    },
+    {
+      "ticker": "ADBE",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.4%",
+      "price": 338.545,
+      "change_percent": 1.3780555150329736,
+      "confidence": 0.3,
+      "timestamp": "2025-08-04T20:08:19.664005",
+      "period_hours": 24
+    },
+    {
+      "ticker": "AXP",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.4%",
+      "price": 298.405,
+      "change_percent": -1.4220393394074429,
+      "confidence": 0.3,
+      "timestamp": "2025-08-04T20:06:49.456867",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-12T22:02:50.612578",
+  "period": "21:02 - 22:02",
+  "total_signals": 2,
+  "signals_by_type": {
+    "prediction": 2
+  },
+  "signals_by_priority": {
+    "info": 2
+  },
+  "signals": [
+    {
+      "ticker": "BABA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 0.6%",
+      "price": 122.42,
+      "change_percent": -0.6225300923595898,
+      "confidence": 0.49124146077424735,
+      "timestamp": "2025-08-12T21:46:31.220623",
+      "period_hours": 6
+    },
+    {
+      "ticker": "UNH",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.2%",
+      "price": 261.57,
+      "change_percent": -1.1594930738090947,
+      "confidence": 0.44741453252830676,
+      "timestamp": "2025-08-12T21:36:43.490630",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}

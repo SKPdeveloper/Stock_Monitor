@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-07-25T23:03:56.951626",
+  "period": "22:03 - 23:03",
+  "total_signals": 1,
+  "signals_by_type": {
+    "prediction": 1
+  },
+  "signals_by_priority": {
+    "info": 1
+  },
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.5%",
+      "price": 173.5,
+      "change_percent": 1.4590662969184123,
+      "confidence": 0.42538816723615946,
+      "timestamp": "2025-07-25T22:26:33.724379",
+      "period_hours": 24
+    }
+  ],
+  "predictions_verification": []
+}

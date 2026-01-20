@@ -1,0 +1,163 @@
+{
+  "timestamp": "2025-08-15T16:01:56.390001",
+  "period": "15:01 - 16:01",
+  "total_signals": 14,
+  "signals_by_type": {
+    "price_change": 6,
+    "prediction": 7,
+    "pattern": 1
+  },
+  "signals_by_priority": {
+    "info": 14
+  },
+  "signals": [
+    {
+      "ticker": "ORCL",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.26%",
+      "price": 249.4811,
+      "change_percent": -0.26141883382972914,
+      "confidence": 0.5207173711744568,
+      "timestamp": "2025-08-15T15:58:44.686261"
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.3%",
+      "price": 304.635,
+      "change_percent": 0.2722234370683119,
+      "confidence": 0.9199999999999999,
+      "timestamp": "2025-08-15T15:55:33.934011",
+      "period_hours": 3
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.2%",
+      "price": 179.36,
+      "change_percent": 1.188759674480334,
+      "confidence": 0.5242819851321958,
+      "timestamp": "2025-08-15T15:52:55.192250",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.1%",
+      "price": 305.205,
+      "change_percent": 1.0815354945295055,
+      "confidence": 0.74,
+      "timestamp": "2025-08-15T15:51:12.468852",
+      "period_hours": 12
+    },
+    {
+      "ticker": "AVGO",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.30%",
+      "price": 305.3341,
+      "change_percent": -0.3039524594713755,
+      "confidence": 0.5510453968288086,
+      "timestamp": "2025-08-15T15:38:06.395645"
+    },
+    {
+      "ticker": "T",
+      "type": "pattern",
+      "priority": "info",
+      "message": "🚀 Темп зростання прискорюється (з 0.2% до 0.5%)",
+      "price": 28.895,
+      "change_percent": 0.4852811052932153,
+      "confidence": 0.6,
+      "timestamp": "2025-08-15T15:34:03.901447"
+    },
+    {
+      "ticker": "SBUX",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📉 Ціна падіння на 0.26%",
+      "price": 90.76,
+      "change_percent": -0.2637362637362581,
+      "confidence": 0.5151137166464308,
+      "timestamp": "2025-08-15T15:31:09.578193"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.24%",
+      "price": 333.5815,
+      "change_percent": 0.24208483847539042,
+      "confidence": 0.5001728996352389,
+      "timestamp": "2025-08-15T15:28:16.915974"
+    },
+    {
+      "ticker": "AMGN",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.25%",
+      "price": 293.67,
+      "change_percent": 0.24577572964670671,
+      "confidence": 0.6008547678233958,
+      "timestamp": "2025-08-15T15:26:28.102511"
+    },
+    {
+      "ticker": "NVDA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.6%",
+      "price": 179.3053,
+      "change_percent": 0.5960559822931377,
+      "confidence": 0.6468356465614514,
+      "timestamp": "2025-08-15T15:22:21.747154",
+      "period_hours": 6
+    },
+    {
+      "ticker": "AVGO",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 0.5%",
+      "price": 305.45,
+      "change_percent": 0.5407677472647527,
+      "confidence": 0.86,
+      "timestamp": "2025-08-15T15:22:06.387178",
+      "period_hours": 6
+    },
+    {
+      "ticker": "SBUX",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔮 Очікується зростання на 1.6%",
+      "price": 90.91,
+      "change_percent": 1.5757285655389277,
+      "confidence": 0.40906761265473923,
+      "timestamp": "2025-08-15T15:12:14.937350",
+      "period_hours": 24
+    },
+    {
+      "ticker": "LLY",
+      "type": "price_change",
+      "priority": "info",
+      "message": "📈 Ціна зростання на 0.28%",
+      "price": 692.0799,
+      "change_percent": 0.28254097054177574,
+      "confidence": 0.632046511202601,
+      "timestamp": "2025-08-15T15:12:05.224394"
+    },
+    {
+      "ticker": "TSLA",
+      "type": "prediction",
+      "priority": "info",
+      "message": "🔻 Очікується падіння на 1.0%",
+      "price": 332.44,
+      "change_percent": -0.9727946076981027,
+      "confidence": 0.4945920233235559,
+      "timestamp": "2025-08-15T15:06:10.374100",
+      "period_hours": 12
+    }
+  ],
+  "predictions_verification": []
+}
