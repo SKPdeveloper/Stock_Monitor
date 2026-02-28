@@ -289,3 +289,7 @@ Stock trading involves substantial risk of loss. Past performance does not guara
 3. Commit changes
 4. Push to branch
 5. Open Pull Request
+
+---
+
+🌐 **[SKP-Degree](https://skp-degree.com.ua)** — Pair programming, курсові та дипломні роботи з програмування. Без передоплати!
